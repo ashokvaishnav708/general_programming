@@ -1,0 +1,1014 @@
+Sender : nRF52840DK
+Receiver: Adafruit Feather Express
+Ranging Venue : Indoor Lab Room
+
+
+
+[00:13:33.890,045] ␛[0m<inf> sx1280_ranging: Distance : 1185 cm ␛[0m
+[00:13:33.912,567] ␛[0m<inf> sx1280_ranging: Distance : 1388 cm ␛[0m
+[00:13:33.935,119] ␛[0m<inf> sx1280_ranging: Distance : 1374 cm ␛[0m
+[00:13:33.957,641] ␛[0m<inf> sx1280_ranging: Distance : 1316 cm ␛[0m
+[00:13:33.980,163] ␛[0m<inf> sx1280_ranging: Distance : 1230 cm ␛[0m
+[00:13:33.980,194] ␛[0m<inf> sx1280_ranging: Average Distance : 1298 cm ␛[0m
+[00:13:35.002,777] ␛[0m<inf> sx1280_ranging: Distance : 946 cm ␛[0m
+[00:13:35.025,299] ␛[0m<inf> sx1280_ranging: Distance : 1230 cm ␛[0m
+[00:13:35.047,851] ␛[0m<inf> sx1280_ranging: Distance : 1189 cm ␛[0m
+[00:13:35.070,373] ␛[0m<inf> sx1280_ranging: Distance : 1036 cm ␛[0m
+[00:13:35.092,895] ␛[0m<inf> sx1280_ranging: Distance : 1352 cm ␛[0m
+[00:13:35.092,926] ␛[0m<inf> sx1280_ranging: Average Distance : 1151 cm ␛[0m
+[00:13:36.115,509] ␛[0m<inf> sx1280_ranging: Distance : 1343 cm ␛[0m
+[00:13:36.138,031] ␛[0m<inf> sx1280_ranging: Distance : 1194 cm ␛[0m
+[00:13:36.160,552] ␛[0m<inf> sx1280_ranging: Distance : 1401 cm ␛[0m
+[00:13:36.183,105] ␛[0m<inf> sx1280_ranging: Distance : 1415 cm ␛[0m
+[00:13:36.205,627] ␛[0m<inf> sx1280_ranging: Distance : 1320 cm ␛[0m
+[00:13:36.205,657] ␛[0m<inf> sx1280_ranging: Average Distance : 1335 cm ␛[0m
+[00:13:37.228,240] ␛[0m<inf> sx1280_ranging: Distance : 1383 cm ␛[0m
+[00:13:37.250,762] ␛[0m<inf> sx1280_ranging: Distance : 955 cm ␛[0m
+[00:13:37.273,284] ␛[0m<inf> sx1280_ranging: Distance : 1135 cm ␛[0m
+[00:13:37.295,837] ␛[0m<inf> sx1280_ranging: Distance : 1108 cm ␛[0m
+[00:13:37.318,359] ␛[0m<inf> sx1280_ranging: Distance : 1284 cm ␛[0m
+[00:13:37.318,389] ␛[0m<inf> sx1280_ranging: Average Distance : 1173 cm ␛[0m
+[00:13:38.340,972] ␛[0m<inf> sx1280_ranging: Distance : 1153 cm ␛[0m
+[00:13:38.363,494] ␛[0m<inf> sx1280_ranging: Distance : 1370 cm ␛[0m
+[00:13:38.386,047] ␛[0m<inf> sx1280_ranging: Distance : 1027 cm ␛[0m
+[00:13:38.408,569] ␛[0m<inf> sx1280_ranging: Distance : 1180 cm ␛[0m
+[00:13:38.431,091] ␛[0m<inf> sx1280_ranging: Distance : 1221 cm ␛[0m
+[00:13:38.431,121] ␛[0m<inf> sx1280_ranging: Average Distance : 1190 cm ␛[0m
+[00:13:39.453,704] ␛[0m<inf> sx1280_ranging: Distance : 960 cm ␛[0m
+[00:13:39.476,226] ␛[0m<inf> sx1280_ranging: Distance : 1167 cm ␛[0m
+[00:13:39.498,748] ␛[0m<inf> sx1280_ranging: Distance : 1176 cm ␛[0m
+[00:13:39.521,301] ␛[0m<inf> sx1280_ranging: Distance : 1009 cm ␛[0m
+[00:13:39.543,823] ␛[0m<inf> sx1280_ranging: Distance : 1338 cm ␛[0m
+[00:13:39.543,853] ␛[0m<inf> sx1280_ranging: Average Distance : 1130 cm ␛[0m
+[00:13:40.566,436] ␛[0m<inf> sx1280_ranging: Distance : 1059 cm ␛[0m
+[00:13:40.588,958] ␛[0m<inf> sx1280_ranging: Distance : 1180 cm ␛[0m
+[00:13:40.611,480] ␛[0m<inf> sx1280_ranging: Distance : 1068 cm ␛[0m
+[00:13:40.634,033] ␛[0m<inf> sx1280_ranging: Distance : 1014 cm ␛[0m
+[00:13:40.656,555] ␛[0m<inf> sx1280_ranging: Distance : 1153 cm ␛[0m
+[00:13:40.656,555] ␛[0m<inf> sx1280_ranging: Average Distance : 1095 cm ␛[0m
+[00:13:41.679,168] ␛[0m<inf> sx1280_ranging: Distance : 1171 cm ␛[0m
+[00:13:41.701,690] ␛[0m<inf> sx1280_ranging: Distance : 1180 cm ␛[0m
+[00:13:41.724,212] ␛[0m<inf> sx1280_ranging: Distance : 1207 cm ␛[0m
+[00:13:41.746,734] ␛[0m<inf> sx1280_ranging: Distance : 1135 cm ␛[0m
+[00:13:41.769,287] ␛[0m<inf> sx1280_ranging: Distance : 1203 cm ␛[0m
+[00:13:41.769,287] ␛[0m<inf> sx1280_ranging: Average Distance : 1179 cm ␛[0m
+[00:13:42.791,900] ␛[0m<inf> sx1280_ranging: Distance : 1162 cm ␛[0m
+[00:13:42.814,422] ␛[0m<inf> sx1280_ranging: Distance : 996 cm ␛[0m
+[00:13:42.836,944] ␛[0m<inf> sx1280_ranging: Distance : 1225 cm ␛[0m
+[00:13:42.859,497] ␛[0m<inf> sx1280_ranging: Distance : 1126 cm ␛[0m
+[00:13:42.882,019] ␛[0m<inf> sx1280_ranging: Distance : 1203 cm ␛[0m
+[00:13:42.882,019] ␛[0m<inf> sx1280_ranging: Average Distance : 1143 cm ␛[0m
+[00:13:43.904,632] ␛[0m<inf> sx1280_ranging: Distance : 960 cm ␛[0m
+[00:13:43.927,154] ␛[0m<inf> sx1280_ranging: Distance : 1014 cm ␛[0m
+[00:13:43.949,707] ␛[0m<inf> sx1280_ranging: Distance : 1325 cm ␛[0m
+[00:13:43.972,229] ␛[0m<inf> sx1280_ranging: Distance : 1135 cm ␛[0m
+[00:13:43.994,750] ␛[0m<inf> sx1280_ranging: Distance : 1113 cm ␛[0m
+[00:13:43.994,781] ␛[0m<inf> sx1280_ranging: Average Distance : 1109 cm ␛[0m
+[00:13:45.017,364] ␛[0m<inf> sx1280_ranging: Distance : 1253 cm ␛[0m
+[00:13:45.039,886] ␛[0m<inf> sx1280_ranging: Distance : 1189 cm ␛[0m
+[00:13:45.062,408] ␛[0m<inf> sx1280_ranging: Distance : 1045 cm ␛[0m
+[00:13:45.084,930] ␛[0m<inf> sx1280_ranging: Distance : 982 cm ␛[0m
+[00:13:45.107,482] ␛[0m<inf> sx1280_ranging: Distance : 1090 cm ␛[0m
+[00:13:45.107,482] ␛[0m<inf> sx1280_ranging: Average Distance : 1112 cm ␛[0m
+[00:13:46.130,096] ␛[0m<inf> sx1280_ranging: Distance : 1257 cm ␛[0m
+[00:13:46.152,618] ␛[0m<inf> sx1280_ranging: Distance : 1108 cm ␛[0m
+[00:13:46.175,140] ␛[0m<inf> sx1280_ranging: Distance : 1334 cm ␛[0m
+[00:13:46.197,692] ␛[0m<inf> sx1280_ranging: Distance : 1230 cm ␛[0m
+[00:13:46.220,214] ␛[0m<inf> sx1280_ranging: Distance : 1162 cm ␛[0m
+[00:13:46.220,214] ␛[0m<inf> sx1280_ranging: Average Distance : 1218 cm ␛[0m
+[00:13:47.242,797] ␛[0m<inf> sx1280_ranging: Distance : 923 cm ␛[0m
+[00:13:47.265,319] ␛[0m<inf> sx1280_ranging: Distance : 1117 cm ␛[0m
+[00:13:47.287,841] ␛[0m<inf> sx1280_ranging: Distance : 1063 cm ␛[0m
+[00:13:47.310,394] ␛[0m<inf> sx1280_ranging: Distance : 1153 cm ␛[0m
+[00:13:47.332,916] ␛[0m<inf> sx1280_ranging: Distance : 1122 cm ␛[0m
+[00:13:47.332,946] ␛[0m<inf> sx1280_ranging: Average Distance : 1076 cm ␛[0m
+[00:13:48.355,529] ␛[0m<inf> sx1280_ranging: Distance : 951 cm ␛[0m
+[00:13:48.378,051] ␛[0m<inf> sx1280_ranging: Distance : 1068 cm ␛[0m
+[00:13:48.400,573] ␛[0m<inf> sx1280_ranging: Distance : 1108 cm ␛[0m
+[00:13:48.423,095] ␛[0m<inf> sx1280_ranging: Distance : 1045 cm ␛[0m
+[00:13:48.445,648] ␛[0m<inf> sx1280_ranging: Distance : 1140 cm ␛[0m
+[00:13:48.445,648] ␛[0m<inf> sx1280_ranging: Average Distance : 1062 cm ␛[0m
+[00:13:49.468,261] ␛[0m<inf> sx1280_ranging: Distance : 1041 cm ␛[0m
+[00:13:49.490,783] ␛[0m<inf> sx1280_ranging: Distance : 1379 cm ␛[0m
+[00:13:49.513,305] ␛[0m<inf> sx1280_ranging: Distance : 1135 cm ␛[0m
+[00:13:49.535,858] ␛[0m<inf> sx1280_ranging: Distance : 1135 cm ␛[0m
+[00:13:49.558,380] ␛[0m<inf> sx1280_ranging: Distance : 1234 cm ␛[0m
+[00:13:49.558,380] ␛[0m<inf> sx1280_ranging: Average Distance : 1185 cm ␛[0m
+[00:13:50.580,993] ␛[0m<inf> sx1280_ranging: Distance : 1077 cm ␛[0m
+[00:13:50.603,515] ␛[0m<inf> sx1280_ranging: Distance : 1253 cm ␛[0m
+[00:13:50.626,037] ␛[0m<inf> sx1280_ranging: Distance : 1063 cm ␛[0m
+[00:13:50.648,559] ␛[0m<inf> sx1280_ranging: Distance : 1090 cm ␛[0m
+[00:13:50.671,112] ␛[0m<inf> sx1280_ranging: Distance : 982 cm ␛[0m
+[00:13:50.671,112] ␛[0m<inf> sx1280_ranging: Average Distance : 1093 cm ␛[0m
+[00:13:51.693,695] ␛[0m<inf> sx1280_ranging: Distance : 1271 cm ␛[0m
+[00:13:51.716,217] ␛[0m<inf> sx1280_ranging: Distance : 1171 cm ␛[0m
+[00:13:51.738,739] ␛[0m<inf> sx1280_ranging: Distance : 1207 cm ␛[0m
+[00:13:51.761,260] ␛[0m<inf> sx1280_ranging: Distance : 1406 cm ␛[0m
+[00:13:51.783,813] ␛[0m<inf> sx1280_ranging: Distance : 1293 cm ␛[0m
+[00:13:51.783,813] ␛[0m<inf> sx1280_ranging: Average Distance : 1270 cm ␛[0m
+[00:13:52.806,427] ␛[0m<inf> sx1280_ranging: Distance : 1257 cm ␛[0m
+[00:13:52.828,948] ␛[0m<inf> sx1280_ranging: Distance : 1329 cm ␛[0m
+[00:13:52.851,470] ␛[0m<inf> sx1280_ranging: Distance : 1135 cm ␛[0m
+[00:13:52.874,023] ␛[0m<inf> sx1280_ranging: Distance : 1104 cm ␛[0m
+[00:13:52.896,545] ␛[0m<inf> sx1280_ranging: Distance : 1072 cm ␛[0m
+[00:13:52.896,545] ␛[0m<inf> sx1280_ranging: Average Distance : 1179 cm ␛[0m
+[00:13:53.919,158] ␛[0m<inf> sx1280_ranging: Distance : 824 cm ␛[0m
+[00:13:53.941,680] ␛[0m<inf> sx1280_ranging: Distance : 1018 cm ␛[0m
+[00:13:53.964,202] ␛[0m<inf> sx1280_ranging: Distance : 1032 cm ␛[0m
+[00:13:53.986,755] ␛[0m<inf> sx1280_ranging: Distance : 1108 cm ␛[0m
+[00:13:54.009,277] ␛[0m<inf> sx1280_ranging: Distance : 1045 cm ␛[0m
+[00:13:54.009,307] ␛[0m<inf> sx1280_ranging: Average Distance : 1006 cm ␛[0m
+[00:13:55.031,890] ␛[0m<inf> sx1280_ranging: Distance : 1212 cm ␛[0m
+[00:13:55.054,412] ␛[0m<inf> sx1280_ranging: Distance : 1275 cm ␛[0m
+[00:13:55.076,934] ␛[0m<inf> sx1280_ranging: Distance : 1464 cm ␛[0m
+[00:13:55.099,487] ␛[0m<inf> sx1280_ranging: Distance : 1081 cm ␛[0m
+[00:13:55.122,009] ␛[0m<inf> sx1280_ranging: Distance : 1334 cm ␛[0m
+[00:13:55.122,009] ␛[0m<inf> sx1280_ranging: Average Distance : 1273 cm ␛[0m
+[00:13:56.144,622] ␛[0m<inf> sx1280_ranging: Distance : 1045 cm ␛[0m
+[00:13:56.167,144] ␛[0m<inf> sx1280_ranging: Distance : 1289 cm ␛[0m
+[00:13:56.189,666] ␛[0m<inf> sx1280_ranging: Distance : 1153 cm ␛[0m
+[00:13:56.212,188] ␛[0m<inf> sx1280_ranging: Distance : 1180 cm ␛[0m
+[00:13:56.234,710] ␛[0m<inf> sx1280_ranging: Distance : 1041 cm ␛[0m
+[00:13:56.234,741] ␛[0m<inf> sx1280_ranging: Average Distance : 1142 cm ␛[0m
+[00:13:57.257,324] ␛[0m<inf> sx1280_ranging: Distance : 1153 cm ␛[0m
+[00:13:57.279,846] ␛[0m<inf> sx1280_ranging: Distance : 1144 cm ␛[0m
+[00:13:57.302,398] ␛[0m<inf> sx1280_ranging: Distance : 1253 cm ␛[0m
+[00:13:57.324,920] ␛[0m<inf> sx1280_ranging: Distance : 1207 cm ␛[0m
+[00:13:57.347,442] ␛[0m<inf> sx1280_ranging: Distance : 1212 cm ␛[0m
+[00:13:57.347,473] ␛[0m<inf> sx1280_ranging: Average Distance : 1194 cm ␛[0m
+[00:13:58.370,056] ␛[0m<inf> sx1280_ranging: Distance : 1243 cm ␛[0m
+[00:13:58.392,578] ␛[0m<inf> sx1280_ranging: Distance : 1361 cm ␛[0m
+[00:13:58.415,100] ␛[0m<inf> sx1280_ranging: Distance : 1253 cm ␛[0m
+[00:13:58.437,652] ␛[0m<inf> sx1280_ranging: Distance : 1361 cm ␛[0m
+[00:13:58.460,174] ␛[0m<inf> sx1280_ranging: Distance : 1176 cm ␛[0m
+[00:13:58.460,205] ␛[0m<inf> sx1280_ranging: Average Distance : 1279 cm ␛[0m
+[00:13:59.482,788] ␛[0m<inf> sx1280_ranging: Distance : 1221 cm ␛[0m
+[00:13:59.505,310] ␛[0m<inf> sx1280_ranging: Distance : 1171 cm ␛[0m
+[00:13:59.527,832] ␛[0m<inf> sx1280_ranging: Distance : 1347 cm ␛[0m
+[00:13:59.550,354] ␛[0m<inf> sx1280_ranging: Distance : 1009 cm ␛[0m
+[00:13:59.572,906] ␛[0m<inf> sx1280_ranging: Distance : 1108 cm ␛[0m
+[00:13:59.572,906] ␛[0m<inf> sx1280_ranging: Average Distance : 1171 cm ␛[0m
+[00:14:00.595,489] ␛[0m<inf> sx1280_ranging: Distance : 1194 cm ␛[0m
+[00:14:00.618,011] ␛[0m<inf> sx1280_ranging: Distance : 982 cm ␛[0m
+[00:14:00.640,533] ␛[0m<inf> sx1280_ranging: Distance : 1000 cm ␛[0m
+[00:14:00.663,085] ␛[0m<inf> sx1280_ranging: Distance : 1117 cm ␛[0m
+[00:14:00.685,607] ␛[0m<inf> sx1280_ranging: Distance : 1248 cm ␛[0m
+[00:14:00.685,607] ␛[0m<inf> sx1280_ranging: Average Distance : 1108 cm ␛[0m
+[00:14:01.708,221] ␛[0m<inf> sx1280_ranging: Distance : 987 cm ␛[0m
+[00:14:01.730,743] ␛[0m<inf> sx1280_ranging: Distance : 978 cm ␛[0m
+[00:14:01.753,265] ␛[0m<inf> sx1280_ranging: Distance : 1266 cm ␛[0m
+[00:14:01.775,817] ␛[0m<inf> sx1280_ranging: Distance : 1158 cm ␛[0m
+[00:14:01.798,339] ␛[0m<inf> sx1280_ranging: Distance : 1041 cm ␛[0m
+[00:14:01.798,339] ␛[0m<inf> sx1280_ranging: Average Distance : 1086 cm ␛[0m
+[00:14:02.820,953] ␛[0m<inf> sx1280_ranging: Distance : 1122 cm ␛[0m
+[00:14:02.843,475] ␛[0m<inf> sx1280_ranging: Distance : 1009 cm ␛[0m
+[00:14:02.865,997] ␛[0m<inf> sx1280_ranging: Distance : 1307 cm ␛[0m
+[00:14:02.888,549] ␛[0m<inf> sx1280_ranging: Distance : 1189 cm ␛[0m
+[00:14:02.911,071] ␛[0m<inf> sx1280_ranging: Distance : 987 cm ␛[0m
+[00:14:02.911,071] ␛[0m<inf> sx1280_ranging: Average Distance : 1123 cm ␛[0m
+[00:14:03.933,685] ␛[0m<inf> sx1280_ranging: Distance : 1185 cm ␛[0m
+[00:14:03.956,207] ␛[0m<inf> sx1280_ranging: Distance : 1392 cm ␛[0m
+[00:14:03.978,729] ␛[0m<inf> sx1280_ranging: Distance : 1320 cm ␛[0m
+[00:14:04.001,281] ␛[0m<inf> sx1280_ranging: Distance : 1374 cm ␛[0m
+[00:14:04.023,803] ␛[0m<inf> sx1280_ranging: Distance : 1347 cm ␛[0m
+[00:14:04.023,803] ␛[0m<inf> sx1280_ranging: Average Distance : 1324 cm ␛[0m
+[00:14:05.046,417] ␛[0m<inf> sx1280_ranging: Distance : 1063 cm ␛[0m
+[00:14:05.068,939] ␛[0m<inf> sx1280_ranging: Distance : 1239 cm ␛[0m
+[00:14:05.091,461] ␛[0m<inf> sx1280_ranging: Distance : 1122 cm ␛[0m
+[00:14:05.114,013] ␛[0m<inf> sx1280_ranging: Distance : 964 cm ␛[0m
+[00:14:05.136,535] ␛[0m<inf> sx1280_ranging: Distance : 960 cm ␛[0m
+[00:14:05.136,535] ␛[0m<inf> sx1280_ranging: Average Distance : 1070 cm ␛[0m
+[00:14:06.159,149] ␛[0m<inf> sx1280_ranging: Distance : 874 cm ␛[0m
+[00:14:06.181,671] ␛[0m<inf> sx1280_ranging: Distance : 1284 cm ␛[0m
+[00:14:06.204,193] ␛[0m<inf> sx1280_ranging: Distance : 1014 cm ␛[0m
+[00:14:06.226,745] ␛[0m<inf> sx1280_ranging: Distance : 1068 cm ␛[0m
+[00:14:06.249,267] ␛[0m<inf> sx1280_ranging: Distance : 919 cm ␛[0m
+[00:14:06.249,298] ␛[0m<inf> sx1280_ranging: Average Distance : 1032 cm ␛[0m
+[00:14:07.271,881] ␛[0m<inf> sx1280_ranging: Distance : 901 cm ␛[0m
+[00:14:07.294,403] ␛[0m<inf> sx1280_ranging: Distance : 811 cm ␛[0m
+[00:14:07.316,925] ␛[0m<inf> sx1280_ranging: Distance : 1009 cm ␛[0m
+[00:14:07.339,477] ␛[0m<inf> sx1280_ranging: Distance : 829 cm ␛[0m
+[00:14:07.361,999] ␛[0m<inf> sx1280_ranging: Distance : 955 cm ␛[0m
+[00:14:07.361,999] ␛[0m<inf> sx1280_ranging: Average Distance : 901 cm ␛[0m
+[00:14:08.384,613] ␛[0m<inf> sx1280_ranging: Distance : 901 cm ␛[0m
+[00:14:08.407,135] ␛[0m<inf> sx1280_ranging: Distance : 892 cm ␛[0m
+[00:14:08.429,656] ␛[0m<inf> sx1280_ranging: Distance : 874 cm ␛[0m
+[00:14:08.452,209] ␛[0m<inf> sx1280_ranging: Distance : 960 cm ␛[0m
+[00:14:08.474,731] ␛[0m<inf> sx1280_ranging: Distance : 1158 cm ␛[0m
+[00:14:08.474,731] ␛[0m<inf> sx1280_ranging: Average Distance : 957 cm ␛[0m
+[00:14:09.497,344] ␛[0m<inf> sx1280_ranging: Distance : 1180 cm ␛[0m
+[00:14:09.519,866] ␛[0m<inf> sx1280_ranging: Distance : 1221 cm ␛[0m
+[00:14:09.542,388] ␛[0m<inf> sx1280_ranging: Distance : 951 cm ␛[0m
+[00:14:09.564,941] ␛[0m<inf> sx1280_ranging: Distance : 1257 cm ␛[0m
+[00:14:09.587,463] ␛[0m<inf> sx1280_ranging: Distance : 1185 cm ␛[0m
+[00:14:09.587,493] ␛[0m<inf> sx1280_ranging: Average Distance : 1159 cm ␛[0m
+[00:14:10.610,076] ␛[0m<inf> sx1280_ranging: Distance : 1140 cm ␛[0m
+[00:14:10.632,598] ␛[0m<inf> sx1280_ranging: Distance : 1311 cm ␛[0m
+[00:14:10.655,120] ␛[0m<inf> sx1280_ranging: Distance : 1063 cm ␛[0m
+[00:14:10.677,642] ␛[0m<inf> sx1280_ranging: Distance : 1041 cm ␛[0m
+[00:14:10.700,195] ␛[0m<inf> sx1280_ranging: Distance : 969 cm ␛[0m
+[00:14:10.700,195] ␛[0m<inf> sx1280_ranging: Average Distance : 1105 cm ␛[0m
+[00:14:11.722,778] ␛[0m<inf> sx1280_ranging: Distance : 942 cm ␛[0m
+[00:14:11.745,300] ␛[0m<inf> sx1280_ranging: Distance : 856 cm ␛[0m
+[00:14:11.767,822] ␛[0m<inf> sx1280_ranging: Distance : 820 cm ␛[0m
+[00:14:11.790,344] ␛[0m<inf> sx1280_ranging: Distance : 1108 cm ␛[0m
+[00:14:11.812,896] ␛[0m<inf> sx1280_ranging: Distance : 1104 cm ␛[0m
+[00:14:11.812,896] ␛[0m<inf> sx1280_ranging: Average Distance : 966 cm ␛[0m
+[00:14:12.835,510] ␛[0m<inf> sx1280_ranging: Distance : 919 cm ␛[0m
+[00:14:12.858,032] ␛[0m<inf> sx1280_ranging: Distance : 842 cm ␛[0m
+[00:14:12.880,554] ␛[0m<inf> sx1280_ranging: Distance : 1180 cm ␛[0m
+[00:14:12.903,106] ␛[0m<inf> sx1280_ranging: Distance : 987 cm ␛[0m
+[00:14:12.925,628] ␛[0m<inf> sx1280_ranging: Distance : 1023 cm ␛[0m
+[00:14:12.925,628] ␛[0m<inf> sx1280_ranging: Average Distance : 990 cm ␛[0m
+[00:14:13.948,242] ␛[0m<inf> sx1280_ranging: Distance : 1000 cm ␛[0m
+[00:14:13.970,764] ␛[0m<inf> sx1280_ranging: Distance : 892 cm ␛[0m
+[00:14:13.993,286] ␛[0m<inf> sx1280_ranging: Distance : 1113 cm ␛[0m
+[00:14:14.015,838] ␛[0m<inf> sx1280_ranging: Distance : 1014 cm ␛[0m
+[00:14:14.038,360] ␛[0m<inf> sx1280_ranging: Distance : 942 cm ␛[0m
+[00:14:14.038,391] ␛[0m<inf> sx1280_ranging: Average Distance : 992 cm ␛[0m
+[00:14:15.060,974] ␛[0m<inf> sx1280_ranging: Distance : 1162 cm ␛[0m
+[00:14:15.083,496] ␛[0m<inf> sx1280_ranging: Distance : 1144 cm ␛[0m
+[00:14:15.106,018] ␛[0m<inf> sx1280_ranging: Distance : 1117 cm ␛[0m
+[00:14:15.128,570] ␛[0m<inf> sx1280_ranging: Distance : 969 cm ␛[0m
+[00:14:15.151,092] ␛[0m<inf> sx1280_ranging: Distance : 1018 cm ␛[0m
+[00:14:15.151,092] ␛[0m<inf> sx1280_ranging: Average Distance : 1082 cm ␛[0m
+[00:14:16.173,706] ␛[0m<inf> sx1280_ranging: Distance : 1081 cm ␛[0m
+[00:14:16.196,228] ␛[0m<inf> sx1280_ranging: Distance : 946 cm ␛[0m
+[00:14:16.218,750] ␛[0m<inf> sx1280_ranging: Distance : 1185 cm ␛[0m
+[00:14:16.241,302] ␛[0m<inf> sx1280_ranging: Distance : 978 cm ␛[0m
+[00:14:16.263,824] ␛[0m<inf> sx1280_ranging: Distance : 919 cm ␛[0m
+[00:14:16.263,854] ␛[0m<inf> sx1280_ranging: Average Distance : 1022 cm ␛[0m
+[00:14:17.286,437] ␛[0m<inf> sx1280_ranging: Distance : 824 cm ␛[0m
+[00:14:17.308,959] ␛[0m<inf> sx1280_ranging: Distance : 1171 cm ␛[0m
+[00:14:17.331,481] ␛[0m<inf> sx1280_ranging: Distance : 667 cm ␛[0m
+[00:14:17.354,034] ␛[0m<inf> sx1280_ranging: Distance : 960 cm ␛[0m
+[00:14:17.376,556] ␛[0m<inf> sx1280_ranging: Distance : 766 cm ␛[0m
+[00:14:17.376,586] ␛[0m<inf> sx1280_ranging: Average Distance : 878 cm ␛[0m
+[00:14:18.399,169] ␛[0m<inf> sx1280_ranging: Distance : 960 cm ␛[0m
+[00:14:18.421,691] ␛[0m<inf> sx1280_ranging: Distance : 896 cm ␛[0m
+[00:14:18.444,213] ␛[0m<inf> sx1280_ranging: Distance : 842 cm ␛[0m
+[00:14:18.466,766] ␛[0m<inf> sx1280_ranging: Distance : 1009 cm ␛[0m
+[00:14:18.489,288] ␛[0m<inf> sx1280_ranging: Distance : 1068 cm ␛[0m
+[00:14:18.489,318] ␛[0m<inf> sx1280_ranging: Average Distance : 955 cm ␛[0m
+[00:14:19.511,901] ␛[0m<inf> sx1280_ranging: Distance : 1018 cm ␛[0m
+[00:14:19.534,423] ␛[0m<inf> sx1280_ranging: Distance : 1005 cm ␛[0m
+[00:14:19.556,976] ␛[0m<inf> sx1280_ranging: Distance : 1077 cm ␛[0m
+[00:14:19.579,498] ␛[0m<inf> sx1280_ranging: Distance : 1045 cm ␛[0m
+[00:14:19.602,020] ␛[0m<inf> sx1280_ranging: Distance : 1108 cm ␛[0m
+[00:14:19.602,050] ␛[0m<inf> sx1280_ranging: Average Distance : 1051 cm ␛[0m
+[00:14:20.624,633] ␛[0m<inf> sx1280_ranging: Distance : 851 cm ␛[0m
+[00:14:20.647,155] ␛[0m<inf> sx1280_ranging: Distance : 1149 cm ␛[0m
+[00:14:20.669,677] ␛[0m<inf> sx1280_ranging: Distance : 1158 cm ␛[0m
+[00:14:20.692,230] ␛[0m<inf> sx1280_ranging: Distance : 1090 cm ␛[0m
+[00:14:20.714,752] ␛[0m<inf> sx1280_ranging: Distance : 842 cm ␛[0m
+[00:14:20.714,782] ␛[0m<inf> sx1280_ranging: Average Distance : 1018 cm ␛[0m
+[00:14:21.737,365] ␛[0m<inf> sx1280_ranging: Distance : 942 cm ␛[0m
+[00:14:21.759,887] ␛[0m<inf> sx1280_ranging: Distance : 951 cm ␛[0m
+[00:14:21.782,409] ␛[0m<inf> sx1280_ranging: Distance : 1077 cm ␛[0m
+[00:14:21.804,962] ␛[0m<inf> sx1280_ranging: Distance : 973 cm ␛[0m
+[00:14:21.827,484] ␛[0m<inf> sx1280_ranging: Distance : 1023 cm ␛[0m
+[00:14:21.827,514] ␛[0m<inf> sx1280_ranging: Average Distance : 993 cm ␛[0m
+[00:14:22.850,097] ␛[0m<inf> sx1280_ranging: Distance : 1000 cm ␛[0m
+[00:14:22.872,619] ␛[0m<inf> sx1280_ranging: Distance : 1108 cm ␛[0m
+[00:14:22.895,172] ␛[0m<inf> sx1280_ranging: Distance : 1248 cm ␛[0m
+[00:14:22.917,694] ␛[0m<inf> sx1280_ranging: Distance : 1005 cm ␛[0m
+[00:14:22.940,216] ␛[0m<inf> sx1280_ranging: Distance : 1045 cm ␛[0m
+[00:14:22.940,246] ␛[0m<inf> sx1280_ranging: Average Distance : 1081 cm ␛[0m
+[00:14:23.962,829] ␛[0m<inf> sx1280_ranging: Distance : 1054 cm ␛[0m
+[00:14:23.985,351] ␛[0m<inf> sx1280_ranging: Distance : 905 cm ␛[0m
+[00:14:24.007,873] ␛[0m<inf> sx1280_ranging: Distance : 1126 cm ␛[0m
+[00:14:24.030,426] ␛[0m<inf> sx1280_ranging: Distance : 1298 cm ␛[0m
+[00:14:24.052,947] ␛[0m<inf> sx1280_ranging: Distance : 892 cm ␛[0m
+[00:14:24.052,978] ␛[0m<inf> sx1280_ranging: Average Distance : 1055 cm ␛[0m
+[00:14:25.075,561] ␛[0m<inf> sx1280_ranging: Distance : 1167 cm ␛[0m
+[00:14:25.098,083] ␛[0m<inf> sx1280_ranging: Distance : 1041 cm ␛[0m
+[00:14:25.120,605] ␛[0m<inf> sx1280_ranging: Distance : 1167 cm ␛[0m
+[00:14:25.143,157] ␛[0m<inf> sx1280_ranging: Distance : 973 cm ␛[0m
+[00:14:25.165,679] ␛[0m<inf> sx1280_ranging: Distance : 1280 cm ␛[0m
+[00:14:25.165,710] ␛[0m<inf> sx1280_ranging: Average Distance : 1125 cm ␛[0m
+[00:14:26.188,293] ␛[0m<inf> sx1280_ranging: Distance : 874 cm ␛[0m
+[00:14:26.210,815] ␛[0m<inf> sx1280_ranging: Distance : 1027 cm ␛[0m
+[00:14:26.233,337] ␛[0m<inf> sx1280_ranging: Distance : 1243 cm ␛[0m
+[00:14:26.255,889] ␛[0m<inf> sx1280_ranging: Distance : 1140 cm ␛[0m
+[00:14:26.278,411] ␛[0m<inf> sx1280_ranging: Distance : 1234 cm ␛[0m
+[00:14:26.278,442] ␛[0m<inf> sx1280_ranging: Average Distance : 1104 cm ␛[0m
+[00:14:27.301,025] ␛[0m<inf> sx1280_ranging: Distance : 1086 cm ␛[0m
+[00:14:27.323,547] ␛[0m<inf> sx1280_ranging: Distance : 878 cm ␛[0m
+[00:14:27.346,069] ␛[0m<inf> sx1280_ranging: Distance : 1149 cm ␛[0m
+[00:14:27.368,621] ␛[0m<inf> sx1280_ranging: Distance : 991 cm ␛[0m
+[00:14:27.391,143] ␛[0m<inf> sx1280_ranging: Distance : 1054 cm ␛[0m
+[00:14:27.391,174] ␛[0m<inf> sx1280_ranging: Average Distance : 1032 cm ␛[0m
+[00:14:28.413,757] ␛[0m<inf> sx1280_ranging: Distance : 1018 cm ␛[0m
+[00:14:28.436,279] ␛[0m<inf> sx1280_ranging: Distance : 806 cm ␛[0m
+[00:14:28.458,801] ␛[0m<inf> sx1280_ranging: Distance : 960 cm ␛[0m
+[00:14:28.481,353] ␛[0m<inf> sx1280_ranging: Distance : 1041 cm ␛[0m
+[00:14:28.503,875] ␛[0m<inf> sx1280_ranging: Distance : 761 cm ␛[0m
+[00:14:28.503,875] ␛[0m<inf> sx1280_ranging: Average Distance : 917 cm ␛[0m
+[00:14:29.526,489] ␛[0m<inf> sx1280_ranging: Distance : 1388 cm ␛[0m
+[00:14:29.549,011] ␛[0m<inf> sx1280_ranging: Distance : 1388 cm ␛[0m
+[00:14:29.571,533] ␛[0m<inf> sx1280_ranging: Distance : 1338 cm ␛[0m
+[00:14:29.594,055] ␛[0m<inf> sx1280_ranging: Distance : 910 cm ␛[0m
+[00:14:29.616,607] ␛[0m<inf> sx1280_ranging: Distance : 1514 cm ␛[0m
+[00:14:29.616,607] ␛[0m<inf> sx1280_ranging: Average Distance : 1307 cm ␛[0m
+[00:14:30.639,221] ␛[0m<inf> sx1280_ranging: Distance : 842 cm ␛[0m
+[00:14:30.661,743] ␛[0m<inf> sx1280_ranging: Distance : 1108 cm ␛[0m
+[00:14:30.684,265] ␛[0m<inf> sx1280_ranging: Distance : 806 cm ␛[0m
+[00:14:30.706,817] ␛[0m<inf> sx1280_ranging: Distance : 788 cm ␛[0m
+[00:14:30.729,339] ␛[0m<inf> sx1280_ranging: Distance : 1023 cm ␛[0m
+[00:14:30.729,339] ␛[0m<inf> sx1280_ranging: Average Distance : 914 cm ␛[0m
+[00:14:31.751,953] ␛[0m<inf> sx1280_ranging: Distance : 1032 cm ␛[0m
+[00:14:31.774,475] ␛[0m<inf> sx1280_ranging: Distance : 964 cm ␛[0m
+[00:14:31.796,997] ␛[0m<inf> sx1280_ranging: Distance : 937 cm ␛[0m
+[00:14:31.819,549] ␛[0m<inf> sx1280_ranging: Distance : 1158 cm ␛[0m
+[00:14:31.842,071] ␛[0m<inf> sx1280_ranging: Distance : 1095 cm ␛[0m
+[00:14:31.842,102] ␛[0m<inf> sx1280_ranging: Average Distance : 1037 cm ␛[0m
+[00:14:32.864,685] ␛[0m<inf> sx1280_ranging: Distance : 757 cm ␛[0m
+[00:14:32.887,207] ␛[0m<inf> sx1280_ranging: Distance : 932 cm ␛[0m
+[00:14:32.909,729] ␛[0m<inf> sx1280_ranging: Distance : 896 cm ␛[0m
+[00:14:32.932,281] ␛[0m<inf> sx1280_ranging: Distance : 1041 cm ␛[0m
+[00:14:32.954,803] ␛[0m<inf> sx1280_ranging: Distance : 1162 cm ␛[0m
+[00:14:32.954,803] ␛[0m<inf> sx1280_ranging: Average Distance : 958 cm ␛[0m
+[00:14:33.977,416] ␛[0m<inf> sx1280_ranging: Distance : 942 cm ␛[0m
+[00:14:33.999,938] ␛[0m<inf> sx1280_ranging: Distance : 1086 cm ␛[0m
+[00:14:34.022,460] ␛[0m<inf> sx1280_ranging: Distance : 1000 cm ␛[0m
+[00:14:34.045,013] ␛[0m<inf> sx1280_ranging: Distance : 955 cm ␛[0m
+[00:14:34.067,535] ␛[0m<inf> sx1280_ranging: Distance : 1063 cm ␛[0m
+[00:14:34.067,535] ␛[0m<inf> sx1280_ranging: Average Distance : 1009 cm ␛[0m
+[00:14:35.090,148] ␛[0m<inf> sx1280_ranging: Distance : 1099 cm ␛[0m
+[00:14:35.112,670] ␛[0m<inf> sx1280_ranging: Distance : 1018 cm ␛[0m
+[00:14:35.135,192] ␛[0m<inf> sx1280_ranging: Distance : 1325 cm ␛[0m
+[00:14:35.157,745] ␛[0m<inf> sx1280_ranging: Distance : 1095 cm ␛[0m
+[00:14:35.180,267] ␛[0m<inf> sx1280_ranging: Distance : 1009 cm ␛[0m
+[00:14:35.180,267] ␛[0m<inf> sx1280_ranging: Average Distance : 1109 cm ␛[0m
+[00:14:36.202,880] ␛[0m<inf> sx1280_ranging: Distance : 1068 cm ␛[0m
+[00:14:36.225,402] ␛[0m<inf> sx1280_ranging: Distance : 1068 cm ␛[0m
+[00:14:36.247,924] ␛[0m<inf> sx1280_ranging: Distance : 1099 cm ␛[0m
+[00:14:36.270,446] ␛[0m<inf> sx1280_ranging: Distance : 1180 cm ␛[0m
+[00:14:36.292,999] ␛[0m<inf> sx1280_ranging: Distance : 1189 cm ␛[0m
+[00:14:36.292,999] ␛[0m<inf> sx1280_ranging: Average Distance : 1121 cm ␛[0m
+[00:14:37.315,612] ␛[0m<inf> sx1280_ranging: Distance : 1176 cm ␛[0m
+[00:14:37.338,134] ␛[0m<inf> sx1280_ranging: Distance : 1257 cm ␛[0m
+[00:14:37.360,656] ␛[0m<inf> sx1280_ranging: Distance : 1428 cm ␛[0m
+[00:14:37.383,209] ␛[0m<inf> sx1280_ranging: Distance : 1144 cm ␛[0m
+[00:14:37.405,731] ␛[0m<inf> sx1280_ranging: Distance : 1320 cm ␛[0m
+[00:14:37.405,731] ␛[0m<inf> sx1280_ranging: Average Distance : 1265 cm ␛[0m
+[00:14:38.428,344] ␛[0m<inf> sx1280_ranging: Distance : 1023 cm ␛[0m
+[00:14:38.450,866] ␛[0m<inf> sx1280_ranging: Distance : 1289 cm ␛[0m
+[00:14:38.473,388] ␛[0m<inf> sx1280_ranging: Distance : 1185 cm ␛[0m
+[00:14:38.495,941] ␛[0m<inf> sx1280_ranging: Distance : 1090 cm ␛[0m
+[00:14:38.518,463] ␛[0m<inf> sx1280_ranging: Distance : 1302 cm ␛[0m
+[00:14:38.518,493] ␛[0m<inf> sx1280_ranging: Average Distance : 1178 cm ␛[0m
+[00:14:39.541,076] ␛[0m<inf> sx1280_ranging: Distance : 1207 cm ␛[0m
+[00:14:39.563,598] ␛[0m<inf> sx1280_ranging: Distance : 1198 cm ␛[0m
+[00:14:39.586,120] ␛[0m<inf> sx1280_ranging: Distance : 1189 cm ␛[0m
+[00:14:39.608,642] ␛[0m<inf> sx1280_ranging: Distance : 1018 cm ␛[0m
+[00:14:39.631,195] ␛[0m<inf> sx1280_ranging: Distance : 1379 cm ␛[0m
+[00:14:39.631,195] ␛[0m<inf> sx1280_ranging: Average Distance : 1198 cm ␛[0m
+[00:14:40.653,808] ␛[0m<inf> sx1280_ranging: Distance : 1140 cm ␛[0m
+[00:14:40.676,330] ␛[0m<inf> sx1280_ranging: Distance : 1135 cm ␛[0m
+[00:14:40.698,852] ␛[0m<inf> sx1280_ranging: Distance : 1203 cm ␛[0m
+[00:14:40.721,374] ␛[0m<inf> sx1280_ranging: Distance : 1388 cm ␛[0m
+[00:14:40.743,927] ␛[0m<inf> sx1280_ranging: Distance : 1185 cm ␛[0m
+[00:14:40.743,927] ␛[0m<inf> sx1280_ranging: Average Distance : 1210 cm ␛[0m
+[00:14:41.766,510] ␛[0m<inf> sx1280_ranging: Distance : 1266 cm ␛[0m
+[00:14:41.789,031] ␛[0m<inf> sx1280_ranging: Distance : 1311 cm ␛[0m
+[00:14:41.811,553] ␛[0m<inf> sx1280_ranging: Distance : 1180 cm ␛[0m
+[00:14:41.834,075] ␛[0m<inf> sx1280_ranging: Distance : 1275 cm ␛[0m
+[00:14:41.856,628] ␛[0m<inf> sx1280_ranging: Distance : 1401 cm ␛[0m
+[00:14:41.856,628] ␛[0m<inf> sx1280_ranging: Average Distance : 1287 cm ␛[0m
+[00:14:42.879,241] ␛[0m<inf> sx1280_ranging: Distance : 1077 cm ␛[0m
+[00:14:42.901,763] ␛[0m<inf> sx1280_ranging: Distance : 1032 cm ␛[0m
+[00:14:42.924,285] ␛[0m<inf> sx1280_ranging: Distance : 1374 cm ␛[0m
+[00:14:42.946,807] ␛[0m<inf> sx1280_ranging: Distance : 1415 cm ␛[0m
+[00:14:42.969,329] ␛[0m<inf> sx1280_ranging: Distance : 1410 cm ␛[0m
+[00:14:42.969,360] ␛[0m<inf> sx1280_ranging: Average Distance : 1262 cm ␛[0m
+[00:14:43.991,943] ␛[0m<inf> sx1280_ranging: Distance : 1090 cm ␛[0m
+[00:14:44.014,465] ␛[0m<inf> sx1280_ranging: Distance : 1135 cm ␛[0m
+[00:14:44.036,987] ␛[0m<inf> sx1280_ranging: Distance : 905 cm ␛[0m
+[00:14:44.059,509] ␛[0m<inf> sx1280_ranging: Distance : 1126 cm ␛[0m
+[00:14:44.082,061] ␛[0m<inf> sx1280_ranging: Distance : 1212 cm ␛[0m
+[00:14:44.082,061] ␛[0m<inf> sx1280_ranging: Average Distance : 1094 cm ␛[0m
+[00:14:45.104,675] ␛[0m<inf> sx1280_ranging: Distance : 1045 cm ␛[0m
+[00:14:45.127,197] ␛[0m<inf> sx1280_ranging: Distance : 1113 cm ␛[0m
+[00:14:45.149,719] ␛[0m<inf> sx1280_ranging: Distance : 1086 cm ␛[0m
+[00:14:45.172,241] ␛[0m<inf> sx1280_ranging: Distance : 946 cm ␛[0m
+[00:14:45.194,793] ␛[0m<inf> sx1280_ranging: Distance : 1171 cm ␛[0m
+[00:14:45.194,793] ␛[0m<inf> sx1280_ranging: Average Distance : 1072 cm ␛[0m
+[00:14:46.217,407] ␛[0m<inf> sx1280_ranging: Distance : 1072 cm ␛[0m
+[00:14:46.239,929] ␛[0m<inf> sx1280_ranging: Distance : 1203 cm ␛[0m
+[00:14:46.262,451] ␛[0m<inf> sx1280_ranging: Distance : 1207 cm ␛[0m
+[00:14:46.285,003] ␛[0m<inf> sx1280_ranging: Distance : 1009 cm ␛[0m
+[00:14:46.307,525] ␛[0m<inf> sx1280_ranging: Distance : 829 cm ␛[0m
+[00:14:46.307,525] ␛[0m<inf> sx1280_ranging: Average Distance : 1064 cm ␛[0m
+[00:14:47.330,139] ␛[0m<inf> sx1280_ranging: Distance : 567 cm ␛[0m
+[00:14:47.352,661] ␛[0m<inf> sx1280_ranging: Distance : 721 cm ␛[0m
+[00:14:47.375,183] ␛[0m<inf> sx1280_ranging: Distance : 901 cm ␛[0m
+[00:14:47.397,735] ␛[0m<inf> sx1280_ranging: Distance : 955 cm ␛[0m
+[00:14:47.420,257] ␛[0m<inf> sx1280_ranging: Distance : 1014 cm ␛[0m
+[00:14:47.420,257] ␛[0m<inf> sx1280_ranging: Average Distance : 832 cm ␛[0m
+[00:14:48.442,871] ␛[0m<inf> sx1280_ranging: Distance : 901 cm ␛[0m
+[00:14:48.465,393] ␛[0m<inf> sx1280_ranging: Distance : 1045 cm ␛[0m
+[00:14:48.487,915] ␛[0m<inf> sx1280_ranging: Distance : 806 cm ␛[0m
+[00:14:48.510,467] ␛[0m<inf> sx1280_ranging: Distance : 905 cm ␛[0m
+[00:14:48.532,989] ␛[0m<inf> sx1280_ranging: Distance : 1009 cm ␛[0m
+[00:14:48.532,989] ␛[0m<inf> sx1280_ranging: Average Distance : 933 cm ␛[0m
+[00:14:49.555,603] ␛[0m<inf> sx1280_ranging: Distance : 1135 cm ␛[0m
+[00:14:49.578,125] ␛[0m<inf> sx1280_ranging: Distance : 1144 cm ␛[0m
+[00:14:49.600,646] ␛[0m<inf> sx1280_ranging: Distance : 1149 cm ␛[0m
+[00:14:49.623,199] ␛[0m<inf> sx1280_ranging: Distance : 1099 cm ␛[0m
+[00:14:49.645,721] ␛[0m<inf> sx1280_ranging: Distance : 1167 cm ␛[0m
+[00:14:49.645,721] ␛[0m<inf> sx1280_ranging: Average Distance : 1139 cm ␛[0m
+[00:14:50.668,334] ␛[0m<inf> sx1280_ranging: Distance : 964 cm ␛[0m
+[00:14:50.690,856] ␛[0m<inf> sx1280_ranging: Distance : 1081 cm ␛[0m
+[00:14:50.713,378] ␛[0m<inf> sx1280_ranging: Distance : 1271 cm ␛[0m
+[00:14:50.735,931] ␛[0m<inf> sx1280_ranging: Distance : 1180 cm ␛[0m
+[00:14:50.758,453] ␛[0m<inf> sx1280_ranging: Distance : 1113 cm ␛[0m
+[00:14:50.758,453] ␛[0m<inf> sx1280_ranging: Average Distance : 1122 cm ␛[0m
+[00:14:51.781,066] ␛[0m<inf> sx1280_ranging: Distance : 1185 cm ␛[0m
+[00:14:51.803,588] ␛[0m<inf> sx1280_ranging: Distance : 905 cm ␛[0m
+[00:14:51.826,110] ␛[0m<inf> sx1280_ranging: Distance : 1059 cm ␛[0m
+[00:14:51.848,632] ␛[0m<inf> sx1280_ranging: Distance : 1023 cm ␛[0m
+[00:14:51.871,154] ␛[0m<inf> sx1280_ranging: Distance : 1307 cm ␛[0m
+[00:14:51.871,185] ␛[0m<inf> sx1280_ranging: Average Distance : 1096 cm ␛[0m
+[00:14:52.893,768] ␛[0m<inf> sx1280_ranging: Distance : 833 cm ␛[0m
+[00:14:52.916,290] ␛[0m<inf> sx1280_ranging: Distance : 1000 cm ␛[0m
+[00:14:52.938,812] ␛[0m<inf> sx1280_ranging: Distance : 919 cm ␛[0m
+[00:14:52.961,364] ␛[0m<inf> sx1280_ranging: Distance : 1009 cm ␛[0m
+[00:14:52.983,886] ␛[0m<inf> sx1280_ranging: Distance : 1018 cm ␛[0m
+[00:14:52.983,886] ␛[0m<inf> sx1280_ranging: Average Distance : 956 cm ␛[0m
+[00:14:54.006,500] ␛[0m<inf> sx1280_ranging: Distance : 960 cm ␛[0m
+[00:14:54.029,022] ␛[0m<inf> sx1280_ranging: Distance : 1032 cm ␛[0m
+[00:14:54.051,544] ␛[0m<inf> sx1280_ranging: Distance : 905 cm ␛[0m
+[00:14:54.074,096] ␛[0m<inf> sx1280_ranging: Distance : 1023 cm ␛[0m
+[00:14:54.096,618] ␛[0m<inf> sx1280_ranging: Distance : 946 cm ␛[0m
+[00:14:54.096,618] ␛[0m<inf> sx1280_ranging: Average Distance : 973 cm ␛[0m
+[00:14:55.119,232] ␛[0m<inf> sx1280_ranging: Distance : 905 cm ␛[0m
+[00:14:55.141,754] ␛[0m<inf> sx1280_ranging: Distance : 856 cm ␛[0m
+[00:14:55.164,276] ␛[0m<inf> sx1280_ranging: Distance : 1005 cm ␛[0m
+[00:14:55.186,828] ␛[0m<inf> sx1280_ranging: Distance : 1131 cm ␛[0m
+[00:14:55.209,350] ␛[0m<inf> sx1280_ranging: Distance : 896 cm ␛[0m
+[00:14:55.209,350] ␛[0m<inf> sx1280_ranging: Average Distance : 959 cm ␛[0m
+[00:14:56.231,964] ␛[0m<inf> sx1280_ranging: Distance : 865 cm ␛[0m
+[00:14:56.254,486] ␛[0m<inf> sx1280_ranging: Distance : 1198 cm ␛[0m
+[00:14:56.277,008] ␛[0m<inf> sx1280_ranging: Distance : 1054 cm ␛[0m
+[00:14:56.299,530] ␛[0m<inf> sx1280_ranging: Distance : 1000 cm ␛[0m
+[00:14:56.322,082] ␛[0m<inf> sx1280_ranging: Distance : 910 cm ␛[0m
+[00:14:56.322,082] ␛[0m<inf> sx1280_ranging: Average Distance : 1006 cm ␛[0m
+[00:14:57.344,696] ␛[0m<inf> sx1280_ranging: Distance : 847 cm ␛[0m
+[00:14:57.367,218] ␛[0m<inf> sx1280_ranging: Distance : 1018 cm ␛[0m
+[00:14:57.389,739] ␛[0m<inf> sx1280_ranging: Distance : 978 cm ␛[0m
+[00:14:57.412,261] ␛[0m<inf> sx1280_ranging: Distance : 653 cm ␛[0m
+[00:14:57.434,814] ␛[0m<inf> sx1280_ranging: Distance : 1063 cm ␛[0m
+[00:14:57.434,814] ␛[0m<inf> sx1280_ranging: Average Distance : 912 cm ␛[0m
+[00:14:58.457,427] ␛[0m<inf> sx1280_ranging: Distance : 1068 cm ␛[0m
+[00:14:58.479,949] ␛[0m<inf> sx1280_ranging: Distance : 1153 cm ␛[0m
+[00:14:58.502,471] ␛[0m<inf> sx1280_ranging: Distance : 932 cm ␛[0m
+[00:14:58.524,993] ␛[0m<inf> sx1280_ranging: Distance : 838 cm ␛[0m
+[00:14:58.547,546] ␛[0m<inf> sx1280_ranging: Distance : 806 cm ␛[0m
+[00:14:58.547,546] ␛[0m<inf> sx1280_ranging: Average Distance : 960 cm ␛[0m
+[00:14:59.570,159] ␛[0m<inf> sx1280_ranging: Distance : 878 cm ␛[0m
+[00:14:59.592,681] ␛[0m<inf> sx1280_ranging: Distance : 896 cm ␛[0m
+[00:14:59.615,203] ␛[0m<inf> sx1280_ranging: Distance : 919 cm ␛[0m
+[00:14:59.637,756] ␛[0m<inf> sx1280_ranging: Distance : 901 cm ␛[0m
+[00:14:59.660,278] ␛[0m<inf> sx1280_ranging: Distance : 1009 cm ␛[0m
+[00:14:59.660,278] ␛[0m<inf> sx1280_ranging: Average Distance : 921 cm ␛[0m
+[00:15:00.682,891] ␛[0m<inf> sx1280_ranging: Distance : 824 cm ␛[0m
+[00:15:00.705,413] ␛[0m<inf> sx1280_ranging: Distance : 955 cm ␛[0m
+[00:15:00.727,935] ␛[0m<inf> sx1280_ranging: Distance : 919 cm ␛[0m
+[00:15:00.750,457] ␛[0m<inf> sx1280_ranging: Distance : 1171 cm ␛[0m
+[00:15:00.773,010] ␛[0m<inf> sx1280_ranging: Distance : 1068 cm ␛[0m
+[00:15:00.773,010] ␛[0m<inf> sx1280_ranging: Average Distance : 987 cm ␛[0m
+[00:15:01.795,623] ␛[0m<inf> sx1280_ranging: Distance : 752 cm ␛[0m
+[00:15:01.818,145] ␛[0m<inf> sx1280_ranging: Distance : 766 cm ␛[0m
+[00:15:01.840,667] ␛[0m<inf> sx1280_ranging: Distance : 978 cm ␛[0m
+[00:15:01.863,189] ␛[0m<inf> sx1280_ranging: Distance : 942 cm ␛[0m
+[00:15:01.885,742] ␛[0m<inf> sx1280_ranging: Distance : 1086 cm ␛[0m
+[00:15:01.885,742] ␛[0m<inf> sx1280_ranging: Average Distance : 905 cm ␛[0m
+[00:15:02.908,355] ␛[0m<inf> sx1280_ranging: Distance : 1018 cm ␛[0m
+[00:15:02.930,877] ␛[0m<inf> sx1280_ranging: Distance : 829 cm ␛[0m
+[00:15:02.953,399] ␛[0m<inf> sx1280_ranging: Distance : 960 cm ␛[0m
+[00:15:02.975,921] ␛[0m<inf> sx1280_ranging: Distance : 1027 cm ␛[0m
+[00:15:02.998,474] ␛[0m<inf> sx1280_ranging: Distance : 851 cm ␛[0m
+[00:15:02.998,474] ␛[0m<inf> sx1280_ranging: Average Distance : 937 cm ␛[0m
+[00:15:04.021,057] ␛[0m<inf> sx1280_ranging: Distance : 685 cm ␛[0m
+[00:15:04.043,579] ␛[0m<inf> sx1280_ranging: Distance : 824 cm ␛[0m
+[00:15:04.066,101] ␛[0m<inf> sx1280_ranging: Distance : 928 cm ␛[0m
+[00:15:04.088,653] ␛[0m<inf> sx1280_ranging: Distance : 698 cm ␛[0m
+[00:15:04.111,175] ␛[0m<inf> sx1280_ranging: Distance : 626 cm ␛[0m
+[00:15:04.111,206] ␛[0m<inf> sx1280_ranging: Average Distance : 752 cm ␛[0m
+[00:15:05.133,789] ␛[0m<inf> sx1280_ranging: Distance : 910 cm ␛[0m
+[00:15:05.156,311] ␛[0m<inf> sx1280_ranging: Distance : 878 cm ␛[0m
+[00:15:05.178,833] ␛[0m<inf> sx1280_ranging: Distance : 450 cm ␛[0m
+[00:15:05.201,385] ␛[0m<inf> sx1280_ranging: Distance : 1068 cm ␛[0m
+[00:15:05.223,907] ␛[0m<inf> sx1280_ranging: Distance : 1126 cm ␛[0m
+[00:15:05.223,907] ␛[0m<inf> sx1280_ranging: Average Distance : 887 cm ␛[0m
+[00:15:06.246,520] ␛[0m<inf> sx1280_ranging: Distance : 978 cm ␛[0m
+[00:15:06.269,042] ␛[0m<inf> sx1280_ranging: Distance : 991 cm ␛[0m
+[00:15:06.291,564] ␛[0m<inf> sx1280_ranging: Distance : 996 cm ␛[0m
+[00:15:06.314,086] ␛[0m<inf> sx1280_ranging: Distance : 923 cm ␛[0m
+[00:15:06.336,639] ␛[0m<inf> sx1280_ranging: Distance : 942 cm ␛[0m
+[00:15:06.336,639] ␛[0m<inf> sx1280_ranging: Average Distance : 966 cm ␛[0m
+[00:15:07.359,252] ␛[0m<inf> sx1280_ranging: Distance : 1009 cm ␛[0m
+[00:15:07.381,774] ␛[0m<inf> sx1280_ranging: Distance : 919 cm ␛[0m
+[00:15:07.404,327] ␛[0m<inf> sx1280_ranging: Distance : 1050 cm ␛[0m
+[00:15:07.426,849] ␛[0m<inf> sx1280_ranging: Distance : 802 cm ␛[0m
+[00:15:07.449,371] ␛[0m<inf> sx1280_ranging: Distance : 1072 cm ␛[0m
+[00:15:07.449,401] ␛[0m<inf> sx1280_ranging: Average Distance : 970 cm ␛[0m
+[00:15:08.471,984] ␛[0m<inf> sx1280_ranging: Distance : 748 cm ␛[0m
+[00:15:08.494,506] ␛[0m<inf> sx1280_ranging: Distance : 987 cm ␛[0m
+[00:15:08.517,059] ␛[0m<inf> sx1280_ranging: Distance : 1099 cm ␛[0m
+[00:15:08.539,581] ␛[0m<inf> sx1280_ranging: Distance : 833 cm ␛[0m
+[00:15:08.562,103] ␛[0m<inf> sx1280_ranging: Distance : 820 cm ␛[0m
+[00:15:08.562,133] ␛[0m<inf> sx1280_ranging: Average Distance : 897 cm ␛[0m
+[00:15:09.584,716] ␛[0m<inf> sx1280_ranging: Distance : 1090 cm ␛[0m
+[00:15:09.607,238] ␛[0m<inf> sx1280_ranging: Distance : 987 cm ␛[0m
+[00:15:09.629,760] ␛[0m<inf> sx1280_ranging: Distance : 1068 cm ␛[0m
+[00:15:09.652,313] ␛[0m<inf> sx1280_ranging: Distance : 1077 cm ␛[0m
+[00:15:09.674,835] ␛[0m<inf> sx1280_ranging: Distance : 1221 cm ␛[0m
+[00:15:09.674,835] ␛[0m<inf> sx1280_ranging: Average Distance : 1088 cm ␛[0m
+[00:15:10.697,448] ␛[0m<inf> sx1280_ranging: Distance : 734 cm ␛[0m
+[00:15:10.719,970] ␛[0m<inf> sx1280_ranging: Distance : 1027 cm ␛[0m
+[00:15:10.742,492] ␛[0m<inf> sx1280_ranging: Distance : 923 cm ␛[0m
+[00:15:10.765,045] ␛[0m<inf> sx1280_ranging: Distance : 1140 cm ␛[0m
+[00:15:10.787,567] ␛[0m<inf> sx1280_ranging: Distance : 932 cm ␛[0m
+[00:15:10.787,597] ␛[0m<inf> sx1280_ranging: Average Distance : 951 cm ␛[0m
+[00:15:11.810,180] ␛[0m<inf> sx1280_ranging: Distance : 932 cm ␛[0m
+[00:15:11.832,702] ␛[0m<inf> sx1280_ranging: Distance : 779 cm ␛[0m
+[00:15:11.855,224] ␛[0m<inf> sx1280_ranging: Distance : 919 cm ␛[0m
+[00:15:11.877,777] ␛[0m<inf> sx1280_ranging: Distance : 951 cm ␛[0m
+[00:15:11.900,299] ␛[0m<inf> sx1280_ranging: Distance : 1104 cm ␛[0m
+[00:15:11.900,299] ␛[0m<inf> sx1280_ranging: Average Distance : 937 cm ␛[0m
+[00:15:12.922,882] ␛[0m<inf> sx1280_ranging: Distance : 1068 cm ␛[0m
+[00:15:12.945,404] ␛[0m<inf> sx1280_ranging: Distance : 1041 cm ␛[0m
+[00:15:12.967,926] ␛[0m<inf> sx1280_ranging: Distance : 1216 cm ␛[0m
+[00:15:12.990,447] ␛[0m<inf> sx1280_ranging: Distance : 946 cm ␛[0m
+[00:15:13.013,000] ␛[0m<inf> sx1280_ranging: Distance : 973 cm ␛[0m
+[00:15:13.013,000] ␛[0m<inf> sx1280_ranging: Average Distance : 1049 cm ␛[0m
+[00:15:14.035,614] ␛[0m<inf> sx1280_ranging: Distance : 928 cm ␛[0m
+[00:15:14.058,135] ␛[0m<inf> sx1280_ranging: Distance : 1090 cm ␛[0m
+[00:15:14.080,657] ␛[0m<inf> sx1280_ranging: Distance : 874 cm ␛[0m
+[00:15:14.103,179] ␛[0m<inf> sx1280_ranging: Distance : 923 cm ␛[0m
+[00:15:14.125,732] ␛[0m<inf> sx1280_ranging: Distance : 1081 cm ␛[0m
+[00:15:14.125,732] ␛[0m<inf> sx1280_ranging: Average Distance : 979 cm ␛[0m
+[00:15:15.148,345] ␛[0m<inf> sx1280_ranging: Distance : 1077 cm ␛[0m
+[00:15:15.170,867] ␛[0m<inf> sx1280_ranging: Distance : 860 cm ␛[0m
+[00:15:15.193,389] ␛[0m<inf> sx1280_ranging: Distance : 752 cm ␛[0m
+[00:15:15.215,942] ␛[0m<inf> sx1280_ranging: Distance : 1054 cm ␛[0m
+[00:15:15.238,464] ␛[0m<inf> sx1280_ranging: Distance : 1117 cm ␛[0m
+[00:15:15.238,464] ␛[0m<inf> sx1280_ranging: Average Distance : 972 cm ␛[0m
+[00:15:16.261,077] ␛[0m<inf> sx1280_ranging: Distance : 987 cm ␛[0m
+[00:15:16.283,599] ␛[0m<inf> sx1280_ranging: Distance : 1014 cm ␛[0m
+[00:15:16.306,121] ␛[0m<inf> sx1280_ranging: Distance : 1158 cm ␛[0m
+[00:15:16.328,643] ␛[0m<inf> sx1280_ranging: Distance : 1090 cm ␛[0m
+[00:15:16.351,196] ␛[0m<inf> sx1280_ranging: Distance : 932 cm ␛[0m
+[00:15:16.351,196] ␛[0m<inf> sx1280_ranging: Average Distance : 1036 cm ␛[0m
+[00:15:17.373,809] ␛[0m<inf> sx1280_ranging: Distance : 820 cm ␛[0m
+[00:15:17.396,331] ␛[0m<inf> sx1280_ranging: Distance : 1207 cm ␛[0m
+[00:15:17.418,853] ␛[0m<inf> sx1280_ranging: Distance : 905 cm ␛[0m
+[00:15:17.441,406] ␛[0m<inf> sx1280_ranging: Distance : 1203 cm ␛[0m
+[00:15:17.463,928] ␛[0m<inf> sx1280_ranging: Distance : 1158 cm ␛[0m
+[00:15:17.463,928] ␛[0m<inf> sx1280_ranging: Average Distance : 1059 cm ␛[0m
+[00:15:18.486,541] ␛[0m<inf> sx1280_ranging: Distance : 856 cm ␛[0m
+[00:15:18.509,063] ␛[0m<inf> sx1280_ranging: Distance : 1144 cm ␛[0m
+[00:15:18.531,616] ␛[0m<inf> sx1280_ranging: Distance : 1081 cm ␛[0m
+[00:15:18.554,138] ␛[0m<inf> sx1280_ranging: Distance : 932 cm ␛[0m
+[00:15:18.576,660] ␛[0m<inf> sx1280_ranging: Distance : 982 cm ␛[0m
+[00:15:18.576,690] ␛[0m<inf> sx1280_ranging: Average Distance : 999 cm ␛[0m
+[00:15:19.599,273] ␛[0m<inf> sx1280_ranging: Distance : 937 cm ␛[0m
+[00:15:19.621,795] ␛[0m<inf> sx1280_ranging: Distance : 987 cm ␛[0m
+[00:15:19.644,317] ␛[0m<inf> sx1280_ranging: Distance : 1054 cm ␛[0m
+[00:15:19.666,870] ␛[0m<inf> sx1280_ranging: Distance : 1095 cm ␛[0m
+[00:15:19.689,392] ␛[0m<inf> sx1280_ranging: Distance : 1018 cm ␛[0m
+[00:15:19.689,392] ␛[0m<inf> sx1280_ranging: Average Distance : 1018 cm ␛[0m
+[00:15:20.712,005] ␛[0m<inf> sx1280_ranging: Distance : 1239 cm ␛[0m
+[00:15:20.734,527] ␛[0m<inf> sx1280_ranging: Distance : 1059 cm ␛[0m
+[00:15:20.757,049] ␛[0m<inf> sx1280_ranging: Distance : 1203 cm ␛[0m
+[00:15:20.779,602] ␛[0m<inf> sx1280_ranging: Distance : 1171 cm ␛[0m
+[00:15:20.802,124] ␛[0m<inf> sx1280_ranging: Distance : 1027 cm ␛[0m
+[00:15:20.802,154] ␛[0m<inf> sx1280_ranging: Average Distance : 1140 cm ␛[0m
+[00:15:21.824,737] ␛[0m<inf> sx1280_ranging: Distance : 1018 cm ␛[0m
+[00:15:21.847,259] ␛[0m<inf> sx1280_ranging: Distance : 1180 cm ␛[0m
+[00:15:21.869,781] ␛[0m<inf> sx1280_ranging: Distance : 1334 cm ␛[0m
+[00:15:21.892,333] ␛[0m<inf> sx1280_ranging: Distance : 1207 cm ␛[0m
+[00:15:21.914,855] ␛[0m<inf> sx1280_ranging: Distance : 1415 cm ␛[0m
+[00:15:21.914,886] ␛[0m<inf> sx1280_ranging: Average Distance : 1231 cm ␛[0m
+[00:15:22.937,469] ␛[0m<inf> sx1280_ranging: Distance : 1086 cm ␛[0m
+[00:15:22.959,991] ␛[0m<inf> sx1280_ranging: Distance : 1059 cm ␛[0m
+[00:15:22.982,513] ␛[0m<inf> sx1280_ranging: Distance : 1000 cm ␛[0m
+[00:15:23.005,065] ␛[0m<inf> sx1280_ranging: Distance : 996 cm ␛[0m
+[00:15:23.027,587] ␛[0m<inf> sx1280_ranging: Distance : 1234 cm ␛[0m
+[00:15:23.027,618] ␛[0m<inf> sx1280_ranging: Average Distance : 1075 cm ␛[0m
+[00:15:24.050,201] ␛[0m<inf> sx1280_ranging: Distance : 1023 cm ␛[0m
+[00:15:24.072,723] ␛[0m<inf> sx1280_ranging: Distance : 1090 cm ␛[0m
+[00:15:24.095,245] ␛[0m<inf> sx1280_ranging: Distance : 1225 cm ␛[0m
+[00:15:24.117,797] ␛[0m<inf> sx1280_ranging: Distance : 1266 cm ␛[0m
+[00:15:24.140,319] ␛[0m<inf> sx1280_ranging: Distance : 1000 cm ␛[0m
+[00:15:24.140,350] ␛[0m<inf> sx1280_ranging: Average Distance : 1121 cm ␛[0m
+[00:15:25.162,933] ␛[0m<inf> sx1280_ranging: Distance : 860 cm ␛[0m
+[00:15:25.185,455] ␛[0m<inf> sx1280_ranging: Distance : 973 cm ␛[0m
+[00:15:25.207,977] ␛[0m<inf> sx1280_ranging: Distance : 1266 cm ␛[0m
+[00:15:25.230,529] ␛[0m<inf> sx1280_ranging: Distance : 1113 cm ␛[0m
+[00:15:25.253,051] ␛[0m<inf> sx1280_ranging: Distance : 1126 cm ␛[0m
+[00:15:25.253,082] ␛[0m<inf> sx1280_ranging: Average Distance : 1068 cm ␛[0m
+[00:15:26.275,665] ␛[0m<inf> sx1280_ranging: Distance : 1207 cm ␛[0m
+[00:15:26.298,187] ␛[0m<inf> sx1280_ranging: Distance : 1014 cm ␛[0m
+[00:15:26.320,709] ␛[0m<inf> sx1280_ranging: Distance : 1104 cm ␛[0m
+[00:15:26.343,261] ␛[0m<inf> sx1280_ranging: Distance : 1090 cm ␛[0m
+[00:15:26.365,783] ␛[0m<inf> sx1280_ranging: Distance : 955 cm ␛[0m
+[00:15:26.365,814] ␛[0m<inf> sx1280_ranging: Average Distance : 1074 cm ␛[0m
+[00:15:27.388,397] ␛[0m<inf> sx1280_ranging: Distance : 1221 cm ␛[0m
+[00:15:27.410,919] ␛[0m<inf> sx1280_ranging: Distance : 1167 cm ␛[0m
+[00:15:27.433,441] ␛[0m<inf> sx1280_ranging: Distance : 1171 cm ␛[0m
+[00:15:27.455,993] ␛[0m<inf> sx1280_ranging: Distance : 1257 cm ␛[0m
+[00:15:27.478,515] ␛[0m<inf> sx1280_ranging: Distance : 1311 cm ␛[0m
+[00:15:27.478,546] ␛[0m<inf> sx1280_ranging: Average Distance : 1225 cm ␛[0m
+[00:15:28.501,129] ␛[0m<inf> sx1280_ranging: Distance : 1253 cm ␛[0m
+[00:15:28.523,651] ␛[0m<inf> sx1280_ranging: Distance : 951 cm ␛[0m
+[00:15:28.546,173] ␛[0m<inf> sx1280_ranging: Distance : 1140 cm ␛[0m
+[00:15:28.568,725] ␛[0m<inf> sx1280_ranging: Distance : 1036 cm ␛[0m
+[00:15:28.591,247] ␛[0m<inf> sx1280_ranging: Distance : 1072 cm ␛[0m
+[00:15:28.591,247] ␛[0m<inf> sx1280_ranging: Average Distance : 1090 cm ␛[0m
+[00:15:29.613,861] ␛[0m<inf> sx1280_ranging: Distance : 1122 cm ␛[0m
+[00:15:29.636,383] ␛[0m<inf> sx1280_ranging: Distance : 1162 cm ␛[0m
+[00:15:29.658,905] ␛[0m<inf> sx1280_ranging: Distance : 1320 cm ␛[0m
+[00:15:29.681,457] ␛[0m<inf> sx1280_ranging: Distance : 1153 cm ␛[0m
+[00:15:29.703,979] ␛[0m<inf> sx1280_ranging: Distance : 1117 cm ␛[0m
+[00:15:29.703,979] ␛[0m<inf> sx1280_ranging: Average Distance : 1175 cm ␛[0m
+[00:15:30.726,593] ␛[0m<inf> sx1280_ranging: Distance : 1063 cm ␛[0m
+[00:15:30.749,114] ␛[0m<inf> sx1280_ranging: Distance : 1032 cm ␛[0m
+[00:15:30.771,636] ␛[0m<inf> sx1280_ranging: Distance : 942 cm ␛[0m
+[00:15:30.794,189] ␛[0m<inf> sx1280_ranging: Distance : 1271 cm ␛[0m
+[00:15:30.816,711] ␛[0m<inf> sx1280_ranging: Distance : 1023 cm ␛[0m
+[00:15:30.816,711] ␛[0m<inf> sx1280_ranging: Average Distance : 1066 cm ␛[0m
+[00:15:31.839,324] ␛[0m<inf> sx1280_ranging: Distance : 883 cm ␛[0m
+[00:15:31.861,846] ␛[0m<inf> sx1280_ranging: Distance : 978 cm ␛[0m
+[00:15:31.884,368] ␛[0m<inf> sx1280_ranging: Distance : 1045 cm ␛[0m
+[00:15:31.906,921] ␛[0m<inf> sx1280_ranging: Distance : 1045 cm ␛[0m
+[00:15:31.929,443] ␛[0m<inf> sx1280_ranging: Distance : 1230 cm ␛[0m
+[00:15:31.929,473] ␛[0m<inf> sx1280_ranging: Average Distance : 1036 cm ␛[0m
+[00:15:32.952,056] ␛[0m<inf> sx1280_ranging: Distance : 1041 cm ␛[0m
+[00:15:32.974,578] ␛[0m<inf> sx1280_ranging: Distance : 1095 cm ␛[0m
+[00:15:32.997,100] ␛[0m<inf> sx1280_ranging: Distance : 1072 cm ␛[0m
+[00:15:33.019,653] ␛[0m<inf> sx1280_ranging: Distance : 1054 cm ␛[0m
+[00:15:33.042,175] ␛[0m<inf> sx1280_ranging: Distance : 779 cm ␛[0m
+[00:15:33.042,205] ␛[0m<inf> sx1280_ranging: Average Distance : 1008 cm ␛[0m
+[00:15:34.064,788] ␛[0m<inf> sx1280_ranging: Distance : 1018 cm ␛[0m
+[00:15:34.087,310] ␛[0m<inf> sx1280_ranging: Distance : 1086 cm ␛[0m
+[00:15:34.109,832] ␛[0m<inf> sx1280_ranging: Distance : 1122 cm ␛[0m
+[00:15:34.132,385] ␛[0m<inf> sx1280_ranging: Distance : 820 cm ␛[0m
+[00:15:34.154,907] ␛[0m<inf> sx1280_ranging: Distance : 757 cm ␛[0m
+[00:15:34.154,937] ␛[0m<inf> sx1280_ranging: Average Distance : 960 cm ␛[0m
+[00:15:35.177,520] ␛[0m<inf> sx1280_ranging: Distance : 969 cm ␛[0m
+[00:15:35.200,042] ␛[0m<inf> sx1280_ranging: Distance : 946 cm ␛[0m
+[00:15:35.222,564] ␛[0m<inf> sx1280_ranging: Distance : 887 cm ␛[0m
+[00:15:35.245,117] ␛[0m<inf> sx1280_ranging: Distance : 1081 cm ␛[0m
+[00:15:35.267,639] ␛[0m<inf> sx1280_ranging: Distance : 892 cm ␛[0m
+[00:15:35.267,669] ␛[0m<inf> sx1280_ranging: Average Distance : 955 cm ␛[0m
+[00:15:36.290,252] ␛[0m<inf> sx1280_ranging: Distance : 878 cm ␛[0m
+[00:15:36.312,774] ␛[0m<inf> sx1280_ranging: Distance : 923 cm ␛[0m
+[00:15:36.335,296] ␛[0m<inf> sx1280_ranging: Distance : 1054 cm ␛[0m
+[00:15:36.357,849] ␛[0m<inf> sx1280_ranging: Distance : 1131 cm ␛[0m
+[00:15:36.380,371] ␛[0m<inf> sx1280_ranging: Distance : 743 cm ␛[0m
+[00:15:36.380,401] ␛[0m<inf> sx1280_ranging: Average Distance : 946 cm ␛[0m
+[00:15:37.402,984] ␛[0m<inf> sx1280_ranging: Distance : 942 cm ␛[0m
+[00:15:37.425,506] ␛[0m<inf> sx1280_ranging: Distance : 878 cm ␛[0m
+[00:15:37.448,028] ␛[0m<inf> sx1280_ranging: Distance : 896 cm ␛[0m
+[00:15:37.470,581] ␛[0m<inf> sx1280_ranging: Distance : 734 cm ␛[0m
+[00:15:37.493,103] ␛[0m<inf> sx1280_ranging: Distance : 937 cm ␛[0m
+[00:15:37.493,133] ␛[0m<inf> sx1280_ranging: Average Distance : 878 cm ␛[0m
+[00:15:38.515,716] ␛[0m<inf> sx1280_ranging: Distance : 996 cm ␛[0m
+[00:15:38.538,238] ␛[0m<inf> sx1280_ranging: Distance : 923 cm ␛[0m
+[00:15:38.560,760] ␛[0m<inf> sx1280_ranging: Distance : 1063 cm ␛[0m
+[00:15:38.583,312] ␛[0m<inf> sx1280_ranging: Distance : 955 cm ␛[0m
+[00:15:38.605,834] ␛[0m<inf> sx1280_ranging: Distance : 716 cm ␛[0m
+[00:15:38.605,865] ␛[0m<inf> sx1280_ranging: Average Distance : 931 cm ␛[0m
+[00:15:39.628,448] ␛[0m<inf> sx1280_ranging: Distance : 671 cm ␛[0m
+[00:15:39.650,970] ␛[0m<inf> sx1280_ranging: Distance : 865 cm ␛[0m
+[00:15:39.673,492] ␛[0m<inf> sx1280_ranging: Distance : 1081 cm ␛[0m
+[00:15:39.696,014] ␛[0m<inf> sx1280_ranging: Distance : 865 cm ␛[0m
+[00:15:39.718,566] ␛[0m<inf> sx1280_ranging: Distance : 996 cm ␛[0m
+[00:15:39.718,566] ␛[0m<inf> sx1280_ranging: Average Distance : 896 cm ␛[0m
+[00:15:40.741,180] ␛[0m<inf> sx1280_ranging: Distance : 473 cm ␛[0m
+[00:15:40.763,702] ␛[0m<inf> sx1280_ranging: Distance : 680 cm ␛[0m
+[00:15:40.786,224] ␛[0m<inf> sx1280_ranging: Distance : 770 cm ␛[0m
+[00:15:40.808,776] ␛[0m<inf> sx1280_ranging: Distance : 662 cm ␛[0m
+[00:15:40.831,298] ␛[0m<inf> sx1280_ranging: Distance : 1000 cm ␛[0m
+[00:15:40.831,298] ␛[0m<inf> sx1280_ranging: Average Distance : 717 cm ␛[0m
+[00:15:41.853,912] ␛[0m<inf> sx1280_ranging: Distance : 1104 cm ␛[0m
+[00:15:41.876,434] ␛[0m<inf> sx1280_ranging: Distance : 1153 cm ␛[0m
+[00:15:41.898,956] ␛[0m<inf> sx1280_ranging: Distance : 1185 cm ␛[0m
+[00:15:41.921,508] ␛[0m<inf> sx1280_ranging: Distance : 1153 cm ␛[0m
+[00:15:41.944,030] ␛[0m<inf> sx1280_ranging: Distance : 1325 cm ␛[0m
+[00:15:41.944,061] ␛[0m<inf> sx1280_ranging: Average Distance : 1184 cm ␛[0m
+[00:15:42.966,644] ␛[0m<inf> sx1280_ranging: Distance : 1140 cm ␛[0m
+[00:15:42.989,166] ␛[0m<inf> sx1280_ranging: Distance : 1023 cm ␛[0m
+[00:15:43.011,688] ␛[0m<inf> sx1280_ranging: Distance : 1009 cm ␛[0m
+[00:15:43.034,240] ␛[0m<inf> sx1280_ranging: Distance : 1036 cm ␛[0m
+[00:15:43.056,762] ␛[0m<inf> sx1280_ranging: Distance : 1221 cm ␛[0m
+[00:15:43.056,793] ␛[0m<inf> sx1280_ranging: Average Distance : 1086 cm ␛[0m
+[00:15:44.079,376] ␛[0m<inf> sx1280_ranging: Distance : 1108 cm ␛[0m
+[00:15:44.101,898] ␛[0m<inf> sx1280_ranging: Distance : 1194 cm ␛[0m
+[00:15:44.124,420] ␛[0m<inf> sx1280_ranging: Distance : 1099 cm ␛[0m
+[00:15:44.146,942] ␛[0m<inf> sx1280_ranging: Distance : 932 cm ␛[0m
+[00:15:44.169,494] ␛[0m<inf> sx1280_ranging: Distance : 1307 cm ␛[0m
+[00:15:44.169,494] ␛[0m<inf> sx1280_ranging: Average Distance : 1128 cm ␛[0m
+[00:15:45.192,108] ␛[0m<inf> sx1280_ranging: Distance : 1207 cm ␛[0m
+[00:15:45.214,630] ␛[0m<inf> sx1280_ranging: Distance : 1221 cm ␛[0m
+[00:15:45.237,152] ␛[0m<inf> sx1280_ranging: Distance : 1090 cm ␛[0m
+[00:15:45.259,704] ␛[0m<inf> sx1280_ranging: Distance : 1104 cm ␛[0m
+[00:15:45.282,226] ␛[0m<inf> sx1280_ranging: Distance : 1176 cm ␛[0m
+[00:15:45.282,226] ␛[0m<inf> sx1280_ranging: Average Distance : 1160 cm ␛[0m
+[00:15:46.304,840] ␛[0m<inf> sx1280_ranging: Distance : 1077 cm ␛[0m
+[00:15:46.327,362] ␛[0m<inf> sx1280_ranging: Distance : 1410 cm ␛[0m
+[00:15:46.349,884] ␛[0m<inf> sx1280_ranging: Distance : 1225 cm ␛[0m
+[00:15:46.372,436] ␛[0m<inf> sx1280_ranging: Distance : 1153 cm ␛[0m
+[00:15:46.394,958] ␛[0m<inf> sx1280_ranging: Distance : 1257 cm ␛[0m
+[00:15:46.394,989] ␛[0m<inf> sx1280_ranging: Average Distance : 1225 cm ␛[0m
+[00:15:47.417,572] ␛[0m<inf> sx1280_ranging: Distance : 1212 cm ␛[0m
+[00:15:47.440,093] ␛[0m<inf> sx1280_ranging: Distance : 1176 cm ␛[0m
+[00:15:47.462,615] ␛[0m<inf> sx1280_ranging: Distance : 1185 cm ␛[0m
+[00:15:47.485,168] ␛[0m<inf> sx1280_ranging: Distance : 1302 cm ␛[0m
+[00:15:47.507,690] ␛[0m<inf> sx1280_ranging: Distance : 1221 cm ␛[0m
+[00:15:47.507,720] ␛[0m<inf> sx1280_ranging: Average Distance : 1219 cm ␛[0m
+[00:15:48.530,303] ␛[0m<inf> sx1280_ranging: Distance : 932 cm ␛[0m
+[00:15:48.552,825] ␛[0m<inf> sx1280_ranging: Distance : 1194 cm ␛[0m
+[00:15:48.575,347] ␛[0m<inf> sx1280_ranging: Distance : 1343 cm ␛[0m
+[00:15:48.597,869] ␛[0m<inf> sx1280_ranging: Distance : 1275 cm ␛[0m
+[00:15:48.620,391] ␛[0m<inf> sx1280_ranging: Distance : 1149 cm ␛[0m
+[00:15:48.620,422] ␛[0m<inf> sx1280_ranging: Average Distance : 1179 cm ␛[0m
+[00:15:49.643,005] ␛[0m<inf> sx1280_ranging: Distance : 1198 cm ␛[0m
+[00:15:49.665,527] ␛[0m<inf> sx1280_ranging: Distance : 1189 cm ␛[0m
+[00:15:49.688,049] ␛[0m<inf> sx1280_ranging: Distance : 1253 cm ␛[0m
+[00:15:49.710,601] ␛[0m<inf> sx1280_ranging: Distance : 1167 cm ␛[0m
+[00:15:49.733,123] ␛[0m<inf> sx1280_ranging: Distance : 1122 cm ␛[0m
+[00:15:49.733,154] ␛[0m<inf> sx1280_ranging: Average Distance : 1186 cm ␛[0m
+[00:15:50.755,737] ␛[0m<inf> sx1280_ranging: Distance : 1248 cm ␛[0m
+[00:15:50.778,259] ␛[0m<inf> sx1280_ranging: Distance : 1144 cm ␛[0m
+[00:15:50.800,781] ␛[0m<inf> sx1280_ranging: Distance : 1185 cm ␛[0m
+[00:15:50.823,303] ␛[0m<inf> sx1280_ranging: Distance : 1135 cm ␛[0m
+[00:15:50.845,855] ␛[0m<inf> sx1280_ranging: Distance : 1027 cm ␛[0m
+[00:15:50.845,855] ␛[0m<inf> sx1280_ranging: Average Distance : 1148 cm ␛[0m
+[00:15:51.868,438] ␛[0m<inf> sx1280_ranging: Distance : 973 cm ␛[0m
+[00:15:51.890,960] ␛[0m<inf> sx1280_ranging: Distance : 1158 cm ␛[0m
+[00:15:51.913,482] ␛[0m<inf> sx1280_ranging: Distance : 1041 cm ␛[0m
+[00:15:51.936,035] ␛[0m<inf> sx1280_ranging: Distance : 1104 cm ␛[0m
+[00:15:51.958,557] ␛[0m<inf> sx1280_ranging: Distance : 1379 cm ␛[0m
+[00:15:51.958,587] ␛[0m<inf> sx1280_ranging: Average Distance : 1131 cm ␛[0m
+[00:15:52.981,170] ␛[0m<inf> sx1280_ranging: Distance : 1149 cm ␛[0m
+[00:15:53.003,692] ␛[0m<inf> sx1280_ranging: Distance : 1131 cm ␛[0m
+[00:15:53.026,214] ␛[0m<inf> sx1280_ranging: Distance : 1162 cm ␛[0m
+[00:15:53.048,736] ␛[0m<inf> sx1280_ranging: Distance : 923 cm ␛[0m
+[00:15:53.071,289] ␛[0m<inf> sx1280_ranging: Distance : 1216 cm ␛[0m
+[00:15:53.071,289] ␛[0m<inf> sx1280_ranging: Average Distance : 1116 cm ␛[0m
+[00:15:54.093,902] ␛[0m<inf> sx1280_ranging: Distance : 1248 cm ␛[0m
+[00:15:54.116,424] ␛[0m<inf> sx1280_ranging: Distance : 1212 cm ␛[0m
+[00:15:54.138,946] ␛[0m<inf> sx1280_ranging: Distance : 1135 cm ␛[0m
+[00:15:54.161,468] ␛[0m<inf> sx1280_ranging: Distance : 1293 cm ␛[0m
+[00:15:54.184,020] ␛[0m<inf> sx1280_ranging: Distance : 1262 cm ␛[0m
+[00:15:54.184,020] ␛[0m<inf> sx1280_ranging: Average Distance : 1230 cm ␛[0m
+[00:15:55.206,604] ␛[0m<inf> sx1280_ranging: Distance : 1158 cm ␛[0m
+[00:15:55.229,125] ␛[0m<inf> sx1280_ranging: Distance : 1014 cm ␛[0m
+[00:15:55.251,647] ␛[0m<inf> sx1280_ranging: Distance : 987 cm ␛[0m
+[00:15:55.274,169] ␛[0m<inf> sx1280_ranging: Distance : 991 cm ␛[0m
+[00:15:55.296,722] ␛[0m<inf> sx1280_ranging: Distance : 1072 cm ␛[0m
+[00:15:55.296,722] ␛[0m<inf> sx1280_ranging: Average Distance : 1044 cm ␛[0m
+[00:15:56.319,335] ␛[0m<inf> sx1280_ranging: Distance : 1032 cm ␛[0m
+[00:15:56.341,857] ␛[0m<inf> sx1280_ranging: Distance : 1153 cm ␛[0m
+[00:15:56.364,379] ␛[0m<inf> sx1280_ranging: Distance : 1072 cm ␛[0m
+[00:15:56.386,901] ␛[0m<inf> sx1280_ranging: Distance : 978 cm ␛[0m
+[00:15:56.409,454] ␛[0m<inf> sx1280_ranging: Distance : 1122 cm ␛[0m
+[00:15:56.409,454] ␛[0m<inf> sx1280_ranging: Average Distance : 1071 cm ␛[0m
+[00:15:57.432,067] ␛[0m<inf> sx1280_ranging: Distance : 1009 cm ␛[0m
+[00:15:57.454,589] ␛[0m<inf> sx1280_ranging: Distance : 1041 cm ␛[0m
+[00:15:57.477,111] ␛[0m<inf> sx1280_ranging: Distance : 1023 cm ␛[0m
+[00:15:57.499,633] ␛[0m<inf> sx1280_ranging: Distance : 1072 cm ␛[0m
+[00:15:57.522,155] ␛[0m<inf> sx1280_ranging: Distance : 1167 cm ␛[0m
+[00:15:57.522,186] ␛[0m<inf> sx1280_ranging: Average Distance : 1062 cm ␛[0m
+[00:15:58.544,769] ␛[0m<inf> sx1280_ranging: Distance : 1014 cm ␛[0m
+[00:15:58.567,291] ␛[0m<inf> sx1280_ranging: Distance : 1316 cm ␛[0m
+[00:15:58.589,813] ␛[0m<inf> sx1280_ranging: Distance : 1162 cm ␛[0m
+[00:15:58.612,335] ␛[0m<inf> sx1280_ranging: Distance : 1216 cm ␛[0m
+[00:15:58.634,887] ␛[0m<inf> sx1280_ranging: Distance : 1275 cm ␛[0m
+[00:15:58.634,887] ␛[0m<inf> sx1280_ranging: Average Distance : 1197 cm ␛[0m
+[00:15:59.657,501] ␛[0m<inf> sx1280_ranging: Distance : 1149 cm ␛[0m
+[00:15:59.680,023] ␛[0m<inf> sx1280_ranging: Distance : 1099 cm ␛[0m
+[00:15:59.702,545] ␛[0m<inf> sx1280_ranging: Distance : 1041 cm ␛[0m
+[00:15:59.725,067] ␛[0m<inf> sx1280_ranging: Distance : 1167 cm ␛[0m
+[00:15:59.747,619] ␛[0m<inf> sx1280_ranging: Distance : 1027 cm ␛[0m
+[00:15:59.747,619] ␛[0m<inf> sx1280_ranging: Average Distance : 1097 cm ␛[0m
+[00:16:00.770,233] ␛[0m<inf> sx1280_ranging: Distance : 1401 cm ␛[0m
+[00:16:00.792,755] ␛[0m<inf> sx1280_ranging: Distance : 1302 cm ␛[0m
+[00:16:00.815,277] ␛[0m<inf> sx1280_ranging: Distance : 1415 cm ␛[0m
+[00:16:00.837,829] ␛[0m<inf> sx1280_ranging: Distance : 1045 cm ␛[0m
+[00:16:00.860,351] ␛[0m<inf> sx1280_ranging: Distance : 1253 cm ␛[0m
+[00:16:00.860,351] ␛[0m<inf> sx1280_ranging: Average Distance : 1283 cm ␛[0m
+[00:16:01.882,965] ␛[0m<inf> sx1280_ranging: Distance : 1036 cm ␛[0m
+[00:16:01.905,487] ␛[0m<inf> sx1280_ranging: Distance : 1108 cm ␛[0m
+[00:16:01.928,009] ␛[0m<inf> sx1280_ranging: Distance : 1356 cm ␛[0m
+[00:16:01.950,561] ␛[0m<inf> sx1280_ranging: Distance : 1284 cm ␛[0m
+[00:16:01.973,083] ␛[0m<inf> sx1280_ranging: Distance : 1036 cm ␛[0m
+[00:16:01.973,083] ␛[0m<inf> sx1280_ranging: Average Distance : 1164 cm ␛[0m
+[00:16:02.995,697] ␛[0m<inf> sx1280_ranging: Distance : 1153 cm ␛[0m
+[00:16:03.018,218] ␛[0m<inf> sx1280_ranging: Distance : 1162 cm ␛[0m
+[00:16:03.040,740] ␛[0m<inf> sx1280_ranging: Distance : 955 cm ␛[0m
+[00:16:03.063,293] ␛[0m<inf> sx1280_ranging: Distance : 1059 cm ␛[0m
+[00:16:03.085,815] ␛[0m<inf> sx1280_ranging: Distance : 1234 cm ␛[0m
+[00:16:03.085,815] ␛[0m<inf> sx1280_ranging: Average Distance : 1113 cm ␛[0m
+[00:16:04.108,428] ␛[0m<inf> sx1280_ranging: Distance : 1135 cm ␛[0m
+[00:16:04.130,950] ␛[0m<inf> sx1280_ranging: Distance : 1316 cm ␛[0m
+[00:16:04.153,472] ␛[0m<inf> sx1280_ranging: Distance : 1009 cm ␛[0m
+[00:16:04.175,994] ␛[0m<inf> sx1280_ranging: Distance : 1077 cm ␛[0m
+[00:16:04.198,516] ␛[0m<inf> sx1280_ranging: Distance : 1167 cm ␛[0m
+[00:16:04.198,547] ␛[0m<inf> sx1280_ranging: Average Distance : 1141 cm ␛[0m
+[00:16:05.221,130] ␛[0m<inf> sx1280_ranging: Distance : 1189 cm ␛[0m
+[00:16:05.243,652] ␛[0m<inf> sx1280_ranging: Distance : 1243 cm ␛[0m
+[00:16:05.266,174] ␛[0m<inf> sx1280_ranging: Distance : 1289 cm ␛[0m
+[00:16:05.288,696] ␛[0m<inf> sx1280_ranging: Distance : 1032 cm ␛[0m
+[00:16:05.311,218] ␛[0m<inf> sx1280_ranging: Distance : 1257 cm ␛[0m
+[00:16:05.311,248] ␛[0m<inf> sx1280_ranging: Average Distance : 1202 cm ␛[0m
+[00:16:06.333,801] ␛[0m<inf> sx1280_ranging: Distance : 1099 cm ␛[0m
+[00:16:06.356,353] ␛[0m<inf> sx1280_ranging: Distance : 1239 cm ␛[0m
+[00:16:06.378,875] ␛[0m<inf> sx1280_ranging: Distance : 987 cm ␛[0m
+[00:16:06.401,397] ␛[0m<inf> sx1280_ranging: Distance : 1478 cm ␛[0m
+[00:16:06.423,950] ␛[0m<inf> sx1280_ranging: Distance : 1298 cm ␛[0m
+[00:16:06.423,950] ␛[0m<inf> sx1280_ranging: Average Distance : 1220 cm ␛[0m
+[00:16:07.446,563] ␛[0m<inf> sx1280_ranging: Distance : 1234 cm ␛[0m
+[00:16:07.469,085] ␛[0m<inf> sx1280_ranging: Distance : 1221 cm ␛[0m
+[00:16:07.491,607] ␛[0m<inf> sx1280_ranging: Distance : 1334 cm ␛[0m
+[00:16:07.514,129] ␛[0m<inf> sx1280_ranging: Distance : 1239 cm ␛[0m
+[00:16:07.536,651] ␛[0m<inf> sx1280_ranging: Distance : 1433 cm ␛[0m
+[00:16:07.536,682] ␛[0m<inf> sx1280_ranging: Average Distance : 1292 cm ␛[0m
+[00:16:08.559,265] ␛[0m<inf> sx1280_ranging: Distance : 1126 cm ␛[0m
+[00:16:08.581,787] ␛[0m<inf> sx1280_ranging: Distance : 1180 cm ␛[0m
+[00:16:08.604,309] ␛[0m<inf> sx1280_ranging: Distance : 1000 cm ␛[0m
+[00:16:08.626,831] ␛[0m<inf> sx1280_ranging: Distance : 1225 cm ␛[0m
+[00:16:08.649,353] ␛[0m<inf> sx1280_ranging: Distance : 1090 cm ␛[0m
+[00:16:08.649,383] ␛[0m<inf> sx1280_ranging: Average Distance : 1125 cm ␛[0m
+[00:16:09.671,966] ␛[0m<inf> sx1280_ranging: Distance : 1153 cm ␛[0m
+[00:16:09.694,488] ␛[0m<inf> sx1280_ranging: Distance : 1131 cm ␛[0m
+[00:16:09.717,010] ␛[0m<inf> sx1280_ranging: Distance : 1203 cm ␛[0m
+[00:16:09.739,532] ␛[0m<inf> sx1280_ranging: Distance : 1027 cm ␛[0m
+[00:16:09.762,054] ␛[0m<inf> sx1280_ranging: Distance : 1009 cm ␛[0m
+[00:16:09.762,084] ␛[0m<inf> sx1280_ranging: Average Distance : 1105 cm ␛[0m
+[00:16:10.784,667] ␛[0m<inf> sx1280_ranging: Distance : 982 cm ␛[0m
+[00:16:10.807,189] ␛[0m<inf> sx1280_ranging: Distance : 1063 cm ␛[0m
+[00:16:10.829,711] ␛[0m<inf> sx1280_ranging: Distance : 1072 cm ␛[0m
+[00:16:10.852,264] ␛[0m<inf> sx1280_ranging: Distance : 1099 cm ␛[0m
+[00:16:10.874,786] ␛[0m<inf> sx1280_ranging: Distance : 869 cm ␛[0m
+[00:16:10.874,786] ␛[0m<inf> sx1280_ranging: Average Distance : 1017 cm ␛[0m
+[00:16:11.897,399] ␛[0m<inf> sx1280_ranging: Distance : 860 cm ␛[0m
+[00:16:11.919,921] ␛[0m<inf> sx1280_ranging: Distance : 874 cm ␛[0m
+[00:16:11.942,443] ␛[0m<inf> sx1280_ranging: Distance : 1374 cm ␛[0m
+[00:16:11.964,965] ␛[0m<inf> sx1280_ranging: Distance : 1104 cm ␛[0m
+[00:16:11.987,518] ␛[0m<inf> sx1280_ranging: Distance : 982 cm ␛[0m
+[00:16:11.987,518] ␛[0m<inf> sx1280_ranging: Average Distance : 1039 cm ␛[0m
+[00:16:13.010,131] ␛[0m<inf> sx1280_ranging: Distance : 1135 cm ␛[0m
+[00:16:13.032,653] ␛[0m<inf> sx1280_ranging: Distance : 1045 cm ␛[0m
+[00:16:13.055,175] ␛[0m<inf> sx1280_ranging: Distance : 1325 cm ␛[0m
+[00:16:13.077,697] ␛[0m<inf> sx1280_ranging: Distance : 1090 cm ␛[0m
+[00:16:13.100,250] ␛[0m<inf> sx1280_ranging: Distance : 1153 cm ␛[0m
+[00:16:13.100,250] ␛[0m<inf> sx1280_ranging: Average Distance : 1150 cm ␛[0m
+[00:16:14.122,833] ␛[0m<inf> sx1280_ranging: Distance : 1356 cm ␛[0m
+[00:16:14.145,355] ␛[0m<inf> sx1280_ranging: Distance : 1343 cm ␛[0m
+[00:16:14.167,877] ␛[0m<inf> sx1280_ranging: Distance : 1230 cm ␛[0m
+[00:16:14.190,399] ␛[0m<inf> sx1280_ranging: Distance : 1361 cm ␛[0m
+[00:16:14.212,951] ␛[0m<inf> sx1280_ranging: Distance : 1171 cm ␛[0m
+[00:16:14.212,951] ␛[0m<inf> sx1280_ranging: Average Distance : 1292 cm ␛[0m
+[00:16:15.235,565] ␛[0m<inf> sx1280_ranging: Distance : 1162 cm ␛[0m
+[00:16:15.258,087] ␛[0m<inf> sx1280_ranging: Distance : 1045 cm ␛[0m
+[00:16:15.280,609] ␛[0m<inf> sx1280_ranging: Distance : 1126 cm ␛[0m
+[00:16:15.303,131] ␛[0m<inf> sx1280_ranging: Distance : 1072 cm ␛[0m
+[00:16:15.325,653] ␛[0m<inf> sx1280_ranging: Distance : 1126 cm ␛[0m
+[00:16:15.325,683] ␛[0m<inf> sx1280_ranging: Average Distance : 1106 cm ␛[0m
+[00:16:16.348,266] ␛[0m<inf> sx1280_ranging: Distance : 1054 cm ␛[0m
+[00:16:16.370,788] ␛[0m<inf> sx1280_ranging: Distance : 1032 cm ␛[0m
+[00:16:16.393,310] ␛[0m<inf> sx1280_ranging: Distance : 739 cm ␛[0m
+[00:16:16.415,863] ␛[0m<inf> sx1280_ranging: Distance : 1185 cm ␛[0m
+[00:16:16.438,385] ␛[0m<inf> sx1280_ranging: Distance : 788 cm ␛[0m
+[00:16:16.438,385] ␛[0m<inf> sx1280_ranging: Average Distance : 960 cm ␛[0m
+[00:16:17.460,998] ␛[0m<inf> sx1280_ranging: Distance : 896 cm ␛[0m
+[00:16:17.483,520] ␛[0m<inf> sx1280_ranging: Distance : 1225 cm ␛[0m
+[00:16:17.506,042] ␛[0m<inf> sx1280_ranging: Distance : 1253 cm ␛[0m
+[00:16:17.528,564] ␛[0m<inf> sx1280_ranging: Distance : 1289 cm ␛[0m
+[00:16:17.551,116] ␛[0m<inf> sx1280_ranging: Distance : 1388 cm ␛[0m
+[00:16:17.551,116] ␛[0m<inf> sx1280_ranging: Average Distance : 1210 cm ␛[0m
+[00:16:18.573,730] ␛[0m<inf> sx1280_ranging: Distance : 874 cm ␛[0m
+[00:16:18.596,252] ␛[0m<inf> sx1280_ranging: Distance : 978 cm ␛[0m
+[00:16:18.618,774] ␛[0m<inf> sx1280_ranging: Distance : 883 cm ␛[0m
+[00:16:18.641,296] ␛[0m<inf> sx1280_ranging: Distance : 1005 cm ␛[0m
+[00:16:18.663,848] ␛[0m<inf> sx1280_ranging: Distance : 1054 cm ␛[0m
+[00:16:18.663,848] ␛[0m<inf> sx1280_ranging: Average Distance : 959 cm ␛[0m
+[00:16:19.686,462] ␛[0m<inf> sx1280_ranging: Distance : 612 cm ␛[0m
+[00:16:19.708,984] ␛[0m<inf> sx1280_ranging: Distance : 716 cm ␛[0m
+[00:16:19.731,506] ␛[0m<inf> sx1280_ranging: Distance : 865 cm ␛[0m
+[00:16:19.754,058] ␛[0m<inf> sx1280_ranging: Distance : 658 cm ␛[0m
+[00:16:19.776,580] ␛[0m<inf> sx1280_ranging: Distance : 838 cm ␛[0m
+[00:16:19.776,580] ␛[0m<inf> sx1280_ranging: Average Distance : 738 cm ␛[0m
+[00:16:20.799,194] ␛[0m<inf> sx1280_ranging: Distance : 960 cm ␛[0m
+[00:16:20.821,716] ␛[0m<inf> sx1280_ranging: Distance : 1086 cm ␛[0m
+[00:16:20.844,238] ␛[0m<inf> sx1280_ranging: Distance : 1185 cm ␛[0m
+[00:16:20.866,760] ␛[0m<inf> sx1280_ranging: Distance : 1135 cm ␛[0m
+[00:16:20.889,312] ␛[0m<inf> sx1280_ranging: Distance : 1356 cm ␛[0m
+[00:16:20.889,312] ␛[0m<inf> sx1280_ranging: Average Distance : 1144 cm ␛[0m
+[00:16:21.911,926] ␛[0m<inf> sx1280_ranging: Distance : 1410 cm ␛[0m
+[00:16:21.934,448] ␛[0m<inf> sx1280_ranging: Distance : 1243 cm ␛[0m
+[00:16:21.956,970] ␛[0m<inf> sx1280_ranging: Distance : 1708 cm ␛[0m
+[00:16:21.979,492] ␛[0m<inf> sx1280_ranging: Distance : 1221 cm ␛[0m
+[00:16:22.002,044] ␛[0m<inf> sx1280_ranging: Distance : 1189 cm ␛[0m
+[00:16:22.002,044] ␛[0m<inf> sx1280_ranging: Average Distance : 1354 cm ␛[0m
+[00:16:23.024,658] ␛[0m<inf> sx1280_ranging: Distance : 504 cm ␛[0m
+[00:16:23.047,180] ␛[0m<inf> sx1280_ranging: Distance : 441 cm ␛[0m
+[00:16:23.069,702] ␛[0m<inf> sx1280_ranging: Distance : 766 cm ␛[0m
+[00:16:23.092,224] ␛[0m<inf> sx1280_ranging: Distance : 671 cm ␛[0m
+[00:16:23.114,776] ␛[0m<inf> sx1280_ranging: Distance : 649 cm ␛[0m
+[00:16:23.114,776] ␛[0m<inf> sx1280_ranging: Average Distance : 606 cm ␛[0m
+[00:16:24.137,359] ␛[0m<inf> sx1280_ranging: Distance : 793 cm ␛[0m
+[00:16:24.159,881] ␛[0m<inf> sx1280_ranging: Distance : 712 cm ␛[0m
+[00:16:24.182,403] ␛[0m<inf> sx1280_ranging: Distance : 1113 cm ␛[0m
+[00:16:24.204,925] ␛[0m<inf> sx1280_ranging: Distance : 910 cm ␛[0m
+[00:16:24.227,478] ␛[0m<inf> sx1280_ranging: Distance : 784 cm ␛[0m
+[00:16:24.227,478] ␛[0m<inf> sx1280_ranging: Average Distance : 862 cm ␛[0m
+[00:16:25.250,091] ␛[0m<inf> sx1280_ranging: Distance : 1009 cm ␛[0m
+[00:16:25.272,613] ␛[0m<inf> sx1280_ranging: Distance : 1126 cm ␛[0m
+[00:16:25.295,135] ␛[0m<inf> sx1280_ranging: Distance : 1108 cm ␛[0m
+[00:16:25.317,687] ␛[0m<inf> sx1280_ranging: Distance : 1140 cm ␛[0m
+[00:16:25.340,209] ␛[0m<inf> sx1280_ranging: Distance : 919 cm ␛[0m
+[00:16:25.340,209] ␛[0m<inf> sx1280_ranging: Average Distance : 1060 cm ␛[0m
+[00:16:26.362,823] ␛[0m<inf> sx1280_ranging: Distance : 1122 cm ␛[0m
+[00:16:26.385,345] ␛[0m<inf> sx1280_ranging: Distance : 694 cm ␛[0m
+[00:16:26.407,867] ␛[0m<inf> sx1280_ranging: Distance : 1131 cm ␛[0m
+[00:16:26.430,389] ␛[0m<inf> sx1280_ranging: Distance : 811 cm ␛[0m
+[00:16:26.452,941] ␛[0m<inf> sx1280_ranging: Distance : 1027 cm ␛[0m
+[00:16:26.452,941] ␛[0m<inf> sx1280_ranging: Average Distance : 957 cm ␛[0m
+[00:16:27.475,555] ␛[0m<inf> sx1280_ranging: Distance : 1180 cm ␛[0m
+[00:16:27.498,077] ␛[0m<inf> sx1280_ranging: Distance : 996 cm ␛[0m
+[00:16:27.520,599] ␛[0m<inf> sx1280_ranging: Distance : 1239 cm ␛[0m
+[00:16:27.543,151] ␛[0m<inf> sx1280_ranging: Distance : 703 cm ␛[0m
+[00:16:27.565,673] ␛[0m<inf> sx1280_ranging: Distance : 829 cm ␛[0m
+[00:16:27.565,673] ␛[0m<inf> sx1280_ranging: Average Distance : 989 cm ␛[0m
+[00:16:28.588,287] ␛[0m<inf> sx1280_ranging: Distance : 1081 cm ␛[0m
+[00:16:28.610,809] ␛[0m<inf> sx1280_ranging: Distance : 942 cm ␛[0m
+[00:16:28.633,331] ␛[0m<inf> sx1280_ranging: Distance : 982 cm ␛[0m
+[00:16:28.655,883] ␛[0m<inf> sx1280_ranging: Distance : 802 cm ␛[0m
+[00:16:28.678,405] ␛[0m<inf> sx1280_ranging: Distance : 441 cm ␛[0m
+[00:16:28.678,405] ␛[0m<inf> sx1280_ranging: Average Distance : 850 cm ␛[0m
+[00:16:29.701,019] ␛[0m<inf> sx1280_ranging: Distance : 811 cm ␛[0m
+[00:16:29.723,541] ␛[0m<inf> sx1280_ranging: Distance : 923 cm ␛[0m
+[00:16:29.746,063] ␛[0m<inf> sx1280_ranging: Distance : 1126 cm ␛[0m
+[00:16:29.768,585] ␛[0m<inf> sx1280_ranging: Distance : 937 cm ␛[0m
+[00:16:29.791,137] ␛[0m<inf> sx1280_ranging: Distance : 860 cm ␛[0m
+[00:16:29.791,137] ␛[0m<inf> sx1280_ranging: Average Distance : 932 cm ␛[0m
+[00:16:30.813,751] ␛[0m<inf> sx1280_ranging: Distance : 856 cm ␛[0m
+[00:16:30.836,273] ␛[0m<inf> sx1280_ranging: Distance : 1162 cm ␛[0m
+[00:16:30.858,795] ␛[0m<inf> sx1280_ranging: Distance : 887 cm ␛[0m
+[00:16:30.881,347] ␛[0m<inf> sx1280_ranging: Distance : 978 cm ␛[0m
+[00:16:30.903,869] ␛[0m<inf> sx1280_ranging: Distance : 960 cm ␛[0m
+[00:16:30.903,900] ␛[0m<inf> sx1280_ranging: Average Distance : 969 cm ␛[0m
+[00:16:31.926,483] ␛[0m<inf> sx1280_ranging: Distance : 1059 cm ␛[0m
+[00:16:31.949,005] ␛[0m<inf> sx1280_ranging: Distance : 1212 cm ␛[0m
+[00:16:31.971,527] ␛[0m<inf> sx1280_ranging: Distance : 1189 cm ␛[0m
+[00:16:31.994,049] ␛[0m<inf> sx1280_ranging: Distance : 951 cm ␛[0m
+[00:16:32.016,601] ␛[0m<inf> sx1280_ranging: Distance : 1099 cm ␛[0m
+[00:16:32.016,601] ␛[0m<inf> sx1280_ranging: Average Distance : 1102 cm ␛[0m
+[00:16:33.039,184] ␛[0m<inf> sx1280_ranging: Distance : 1180 cm ␛[0m
+[00:16:33.061,706] ␛[0m<inf> sx1280_ranging: Distance : 928 cm ␛[0m
+[00:16:33.084,228] ␛[0m<inf> sx1280_ranging: Distance : 1018 cm ␛[0m
+[00:16:33.106,750] ␛[0m<inf> sx1280_ranging: Distance : 951 cm ␛[0m
+[00:16:33.129,302] ␛[0m<inf> sx1280_ranging: Distance : 896 cm ␛[0m
+[00:16:33.129,302] ␛[0m<inf> sx1280_ranging: Average Distance : 995 cm ␛[0m
+[00:16:34.151,885] ␛[0m<inf> sx1280_ranging: Distance : 874 cm ␛[0m
+[00:16:34.174,407] ␛[0m<inf> sx1280_ranging: Distance : 1059 cm ␛[0m
+[00:16:34.196,929] ␛[0m<inf> sx1280_ranging: Distance : 644 cm ␛[0m
+[00:16:34.219,451] ␛[0m<inf> sx1280_ranging: Distance : 1212 cm ␛[0m
+[00:16:34.242,004] ␛[0m<inf> sx1280_ranging: Distance : 914 cm ␛[0m
+[00:16:34.242,004] ␛[0m<inf> sx1280_ranging: Average Distance : 941 cm ␛[0m
+[00:16:35.264,617] ␛[0m<inf> sx1280_ranging: Distance : 838 cm ␛[0m
+[00:16:35.287,139] ␛[0m<inf> sx1280_ranging: Distance : 887 cm ␛[0m
+[00:16:35.309,661] ␛[0m<inf> sx1280_ranging: Distance : 806 cm ␛[0m
+[00:16:35.332,183] ␛[0m<inf> sx1280_ranging: Distance : 865 cm ␛[0m
+[00:16:35.354,736] ␛[0m<inf> sx1280_ranging: Distance : 1104 cm ␛[0m
+[00:16:35.354,736] ␛[0m<inf> sx1280_ranging: Average Distance : 900 cm ␛[0m
+[00:16:36.377,349] ␛[0m<inf> sx1280_ranging: Distance : 892 cm ␛[0m
+[00:16:36.399,871] ␛[0m<inf> sx1280_ranging: Distance : 874 cm ␛[0m
+[00:16:36.422,393] ␛[0m<inf> sx1280_ranging: Distance : 1072 cm ␛[0m
+[00:16:36.444,915] ␛[0m<inf> sx1280_ranging: Distance : 987 cm ␛[0m
+[00:16:36.467,468] ␛[0m<inf> sx1280_ranging: Distance : 802 cm ␛[0m
+[00:16:36.467,468] ␛[0m<inf> sx1280_ranging: Average Distance : 925 cm ␛[0m
+[00:16:37.490,051] ␛[0m<inf> sx1280_ranging: Distance : 658 cm ␛[0m
+[00:16:37.512,573] ␛[0m<inf> sx1280_ranging: Distance : 468 cm ␛[0m
+[00:16:37.535,095] ␛[0m<inf> sx1280_ranging: Distance : 797 cm ␛[0m
+[00:16:37.557,647] ␛[0m<inf> sx1280_ranging: Distance : 784 cm ␛[0m
+[00:16:37.580,169] ␛[0m<inf> sx1280_ranging: Distance : 820 cm ␛[0m
+[00:16:37.580,200] ␛[0m<inf> sx1280_ranging: Average Distance : 705 cm ␛[0m
+[00:16:38.602,783] ␛[0m<inf> sx1280_ranging: Distance : 1068 cm ␛[0m
+[00:16:38.625,305] ␛[0m<inf> sx1280_ranging: Distance : 883 cm ␛[0m
+[00:16:38.647,827] ␛[0m<inf> sx1280_ranging: Distance : 833 cm ␛[0m
+[00:16:38.670,379] ␛[0m<inf> sx1280_ranging: Distance : 784 cm ␛[0m
+[00:16:38.692,901] ␛[0m<inf> sx1280_ranging: Distance : 1108 cm ␛[0m
+[00:16:38.692,901] ␛[0m<inf> sx1280_ranging: Average Distance : 935 cm ␛[0m
+[00:16:39.715,515] ␛[0m<inf> sx1280_ranging: Distance : 1000 cm ␛[0m
+[00:16:39.738,037] ␛[0m<inf> sx1280_ranging: Distance : 1527 cm ␛[0m
+[00:16:39.760,559] ␛[0m<inf> sx1280_ranging: Distance : 811 cm ␛[0m
+[00:16:39.783,111] ␛[0m<inf> sx1280_ranging: Distance : 775 cm ␛[0m
+[00:16:39.805,633] ␛[0m<inf> sx1280_ranging: Distance : 775 cm ␛[0m
+[00:16:39.805,633] ␛[0m<inf> sx1280_ranging: Average Distance : 978 cm
